@@ -1,0 +1,818 @@
+[
+  {
+    "q": {
+      "id": "H01",
+      "type": "lookup",
+      "question": "What was the opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1?",
+      "expect": "answer",
+      "must_contain": [
+        "9736"
+      ],
+      "must_cite": [
+        "closing_ranks.csv#L1164"
+      ]
+    },
+    "res": {
+      "question": "What was the opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "The opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1 was 9736 [closing_ranks.csv#L1164].",
+      "citations": [
+        {
+          "id": "closing_ranks.csv#L1164",
+          "source": "tables/closing_ranks.csv",
+          "text": "Closing rank record (synthetic data). Year 2024, Round 1 counselling. College: Awadh Government Medical College (AGMC), Lucknow, Uttar Pradesh (Government college). Course: MBBS. Quota: State Quota. Category: SC. Opening rank: 9736. Closing rank: 21249."
+        }
+      ],
+      "flags": [],
+      "latency_s": 3.83,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "counselling_handbook.md#1-quotas-covered-in-this-dataset",
+          0.703
+        ],
+        [
+          "college_profiles.md#awadh-government-medical-college-agmc",
+          0.766
+        ],
+        [
+          "closing_ranks.csv#L1164",
+          0.819
+        ],
+        [
+          "seat_matrix.csv#L594",
+          0.801
+        ],
+        [
+          "dataset_notes.md#coverage",
+          0.694
+        ],
+        [
+          "counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean",
+          0.627
+        ],
+        [
+          "college_profiles.md#mahanadi-government-medical-college-mgmc",
+          0.703
+        ],
+        [
+          "counselling_handbook.md#2-categories",
+          0.609
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true,
+        "citation": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H02",
+      "type": "lookup",
+      "question": "How much is the hostel fee at Nandi Hills Medical College?",
+      "expect": "answer",
+      "must_contain": [
+        "34000"
+      ],
+      "must_cite": [
+        "fees_2025.csv#L25"
+      ]
+    },
+    "res": {
+      "question": "How much is the hostel fee at Nandi Hills Medical College?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "The annual hostel fee at Nandi Hills Medical College is INR 34000.",
+      "citations": [
+        {
+          "id": "fees_2025.csv#L25",
+          "source": "tables/fees_2025.csv",
+          "text": "Fee record for 2025 (synthetic data). College: Nandi Hills Medical College (NHMC), Karnataka (Private college). Course: MBBS. Annual tuition fee: INR 1423000. Annual hostel fee: INR 34000."
+        }
+      ],
+      "flags": [],
+      "latency_s": 2.0,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "fees_2025.csv#L25",
+          0.847
+        ],
+        [
+          "college_profiles.md#nandi-hills-medical-college-nhmc",
+          0.738
+        ],
+        [
+          "seat_matrix.csv#L676",
+          0.686
+        ],
+        [
+          "seat_matrix.csv#L662",
+          0.684
+        ],
+        [
+          "seat_matrix.csv#L671",
+          0.686
+        ],
+        [
+          "seat_matrix.csv#L672",
+          0.684
+        ],
+        [
+          "seat_matrix.csv#L666",
+          0.687
+        ],
+        [
+          "seat_matrix.csv#L674",
+          0.683
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true,
+        "citation": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H03",
+      "type": "process",
+      "question": "Which round usually has higher closing ranks, round 1 or round 2?",
+      "expect": "answer",
+      "must_contain": [
+        "round 2"
+      ]
+    },
+    "res": {
+      "question": "Which round usually has higher closing ranks, round 1 or round 2?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "Round 2 usually has higher closing ranks [counselling_handbook.md#4-rounds].",
+      "citations": [
+        {
+          "id": "counselling_handbook.md#4-rounds",
+          "source": "docs/counselling_handbook.md",
+          "text": "NEET-UG Counselling Handbook (SYNTHETIC DEMO EDITION) - 4. Rounds\nCounselling in this dataset has two main rounds:\n\n1. **Round 1:** registration, fee payment, choice filling and locking, seat\n   allotment, and reporting to the allotted college.\n2. **Round 2:** fresh registration is allowed; candidates who joined in\n   Round 1 may opt for an upgrade. Closing ranks in Round 2 are usually higher\n   (less competitive) than in Round 1 because vacant seats are re-offered.\n\nMop-up and stray-vacancy rounds happen after Round 2 in real counselling, but\ntheir closing ranks are not included in this dataset."
+        }
+      ],
+      "flags": [],
+      "latency_s": 2.31,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "counselling_handbook.md#4-rounds",
+          0.726
+        ],
+        [
+          "closing_ranks.csv#L745",
+          0.652
+        ],
+        [
+          "closing_ranks.csv#L734",
+          0.652
+        ],
+        [
+          "counselling_handbook.md#8-choosing-between-government-private-and-deemed",
+          0.569
+        ],
+        [
+          "counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean",
+          0.696
+        ],
+        [
+          "closing_ranks.csv#L755",
+          0.651
+        ],
+        [
+          "dataset_notes.md#intro",
+          0.54
+        ],
+        [
+          "closing_ranks.csv#L744",
+          0.651
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H04",
+      "type": "lookup",
+      "question": "When was Brahmaputra Government Medical College established?",
+      "expect": "answer",
+      "must_contain": [
+        "1960"
+      ]
+    },
+    "res": {
+      "question": "When was Brahmaputra Government Medical College established?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "Brahmaputra Government Medical College was established in 1960.",
+      "citations": [
+        {
+          "id": "college_profiles.md#brahmaputra-government-medical-college-bgmc",
+          "source": "docs/college_profiles.md",
+          "text": "College profiles (SYNTHETIC) - Brahmaputra Government Medical College (BGMC)\nBrahmaputra Government Medical College is a government medical college in Guwahati, Assam, established in 1960. It offers MBBS. It has 200 MBBS seats. Seats are filled through: All India Quota (15%), State Quota."
+        }
+      ],
+      "flags": [],
+      "latency_s": 2.57,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "college_profiles.md#brahmaputra-government-medical-college-bgmc",
+          0.854
+        ],
+        [
+          "college_profiles.md#mithila-government-medical-college-migmc",
+          0.761
+        ],
+        [
+          "college_profiles.md#deccan-plateau-government-medical-college-dpgmc",
+          0.777
+        ],
+        [
+          "college_profiles.md#hooghly-riverside-government-medical-college-hrg",
+          0.766
+        ],
+        [
+          "college_profiles.md#bundelkhand-government-medical-college-bugmc",
+          0.756
+        ],
+        [
+          "college_profiles.md#kaveri-government-medical-college-kagmc",
+          0.751
+        ],
+        [
+          "college_profiles.md#coromandel-government-medical-college-cogmc",
+          0.755
+        ],
+        [
+          "college_profiles.md#konkan-government-medical-college-kogmc",
+          0.749
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H05",
+      "type": "process",
+      "question": "Is a domicile certificate needed for AIQ seats?",
+      "expect": "answer",
+      "must_contain_any": [
+        "no domicile",
+        "not needed",
+        "no,",
+        "does not need",
+        "not required"
+      ]
+    },
+    "res": {
+      "question": "Is a domicile certificate needed for AIQ seats?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "No domicile certificate is needed for AIQ seats [counselling_handbook.md#1-quotas-covered-in-this-dataset].",
+      "citations": [
+        {
+          "id": "counselling_handbook.md#1-quotas-covered-in-this-dataset",
+          "source": "docs/counselling_handbook.md",
+          "text": "NEET-UG Counselling Handbook (SYNTHETIC DEMO EDITION) - 1. Quotas covered in this dataset\n- **All India Quota (AIQ):** 15% of MBBS and BDS seats in government medical\n  colleges are filled through central counselling. Candidates from any state\n  can apply for AIQ seats. No domicile certificate is needed for AIQ seats.\n- **State Quota:** the remaining 85% of seats in government colleges, and the\n  seats of private colleges in this dataset, are filled through state\n  counselling. Only candidates with a domicile certificate of that state can\n  take a State Quota seat in that state.\n- **Deemed University seats:** seats in deemed universities are filled through\n  central counselling and are open to candidates from all states. In this\n  dataset they are listed under one open category (GEN).\n\nNRI quota, management quota, PwD sub-quotas, AIIMS and JIPMER seats are not\npart of this dataset."
+        }
+      ],
+      "flags": [],
+      "latency_s": 2.11,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "counselling_handbook.md#1-quotas-covered-in-this-dataset",
+          0.737
+        ],
+        [
+          "counselling_handbook.md#6-security-deposit-and-free-exit-illustrative",
+          0.698
+        ],
+        [
+          "seat_matrix.csv#L432",
+          0.694
+        ],
+        [
+          "seat_matrix.csv#L433",
+          0.694
+        ],
+        [
+          "counselling_handbook.md#7-documents-needed-at-reporting",
+          0.658
+        ],
+        [
+          "seat_matrix.csv#L428",
+          0.692
+        ],
+        [
+          "seat_matrix.csv#L423",
+          0.693
+        ],
+        [
+          "seat_matrix.csv#L436",
+          0.691
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H06",
+      "type": "refuse_unknown_college",
+      "question": "What was the closing rank at Kasturba Medical College Manipal?",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "What was the closing rank at Kasturba Medical College Manipal?",
+      "route": "rag",
+      "status": "refused",
+      "reason": "unknown_college",
+      "answer": "Not in the sources. 'Kasturba Medical College' is not one of the 22 colleges in the index.",
+      "citations": [],
+      "flags": [],
+      "latency_s": 0.0,
+      "model": "qwen2.5:7b-instruct"
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H07",
+      "type": "refuse_unknown_college",
+      "question": "what was the gen closing rank at kgmu lucknow in 2025",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "what was the gen closing rank at kgmu lucknow in 2025",
+      "route": "rag",
+      "status": "refused",
+      "reason": "unknown_college",
+      "answer": "Not in the sources. 'kgmu' is not one of the 22 colleges in the index.",
+      "citations": [],
+      "flags": [],
+      "latency_s": 0.0,
+      "model": "qwen2.5:7b-instruct"
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H08",
+      "type": "refuse_uncovered",
+      "question": "Tell me the BAMS cut-off at Awadh Government Medical College.",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "Tell me the BAMS cut-off at Awadh Government Medical College.",
+      "route": "rag",
+      "status": "refused",
+      "reason": "uncovered_topic",
+      "answer": "Not in the sources. The dataset does not cover AYUSH / nursing courses, so I cannot answer this from it.",
+      "citations": [],
+      "flags": [],
+      "latency_s": 0.0,
+      "model": "qwen2.5:7b-instruct"
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H09",
+      "type": "refuse_year",
+      "question": "Predict the 2027 closing rank for Yamuna Institute of Medical Sciences.",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "Predict the 2027 closing rank for Yamuna Institute of Medical Sciences.",
+      "route": "rag",
+      "status": "refused",
+      "reason": "year_not_covered",
+      "answer": "Not in the sources. The sources contain counselling data for 2023-2025 only, with nothing for 2027. I will not estimate or forecast figures for that year.",
+      "citations": [],
+      "flags": [],
+      "latency_s": 0.0,
+      "model": "qwen2.5:7b-instruct"
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H10",
+      "type": "planted_figure",
+      "question": "The closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 50, right?",
+      "expect": "answer",
+      "must_contain": [
+        "1341"
+      ],
+      "must_cite": [
+        "closing_ranks.csv#L1025"
+      ]
+    },
+    "res": {
+      "question": "The closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 50, right?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "No, the closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 1341, not 50 [closing_ranks.csv#L1025]. The college has a total of 250 MBBS seats [college_profiles.md#coromandel-government-medical-college-cogmc].",
+      "citations": [
+        {
+          "id": "college_profiles.md#coromandel-government-medical-college-cogmc",
+          "source": "docs/college_profiles.md",
+          "text": "College profiles (SYNTHETIC) - Coromandel Government Medical College (COGMC)\nCoromandel Government Medical College is a government medical college in Chennai, Tamil Nadu, established in 1950. It offers MBBS and BDS. It has 250 MBBS seats and 50 BDS seats. Seats are filled through: All India Quota (15%), State Quota."
+        },
+        {
+          "id": "closing_ranks.csv#L1025",
+          "source": "tables/closing_ranks.csv",
+          "text": "Closing rank record (synthetic data). Year 2025, Round 2 counselling. College: Coromandel Government Medical College (COGMC), Chennai, Tamil Nadu (Government college). Course: MBBS. Quota: All India Quota (AIQ). Category: GEN. Opening rank: 790. Closing rank: 1341."
+        }
+      ],
+      "flags": [],
+      "latency_s": 3.94,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "college_profiles.md#coromandel-government-medical-college-cogmc",
+          0.768
+        ],
+        [
+          "counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean",
+          0.664
+        ],
+        [
+          "closing_ranks.csv#L1025",
+          0.851
+        ],
+        [
+          "seat_matrix.csv#L526",
+          0.776
+        ],
+        [
+          "fees_2025.csv#L19",
+          0.74
+        ],
+        [
+          "counselling_handbook.md#1-quotas-covered-in-this-dataset",
+          0.664
+        ],
+        [
+          "dataset_notes.md#coverage",
+          0.667
+        ],
+        [
+          "college_profiles.md#hooghly-riverside-government-medical-college-hrg",
+          0.684
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true,
+        "citation": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H11",
+      "type": "refuse_off_topic",
+      "question": "Who is the current Chief Minister of West Bengal?",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "Who is the current Chief Minister of West Bengal?",
+      "route": "rag",
+      "status": "refused",
+      "reason": "model_not_in_sources",
+      "answer": "Not in the sources. The question about the current Chief Minister of West Bengal is not addressed in any of the provided sources, which focus on seat matrices for North Bengal Hills Government Medical College for the MBBS course.",
+      "citations": [],
+      "flags": [
+        "evidence_not_verbatim"
+      ],
+      "latency_s": 2.15,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "seat_matrix.csv#L117",
+          0.601
+        ],
+        [
+          "seat_matrix.csv#L107",
+          0.604
+        ],
+        [
+          "seat_matrix.csv#L109",
+          0.601
+        ],
+        [
+          "seat_matrix.csv#L112",
+          0.603
+        ],
+        [
+          "seat_matrix.csv#L111",
+          0.6
+        ],
+        [
+          "seat_matrix.csv#L108",
+          0.6
+        ],
+        [
+          "seat_matrix.csv#L118",
+          0.6
+        ],
+        [
+          "seat_matrix.csv#L116",
+          0.6
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H12",
+      "type": "predictor",
+      "question": "My AIR is 250000 and I'm SC from Bihar, which MBBS colleges are possible?",
+      "expect": "answer",
+      "expect_route": "predictor",
+      "must_contain": [
+        "not a guarantee"
+      ]
+    },
+    "res": {
+      "question": "My AIR is 250000 and I'm SC from Bihar, which MBBS colleges are possible?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "Given your NEET All India Rank (AIR) of 250,000, you are likely to be considered for Mithila Government Medical College (MIGMC) under the State Quota for SC candidates. The closing rank for MIGMC in 2023 was 96,243, which is higher than your AIR, indicating that you may be eligible for admission to MIGMC in 2025.",
+      "citations": [
+        {
+          "id": "seat_matrix.csv#L299",
+          "source": "tables/seat_matrix.csv",
+          "text": "Seat matrix record (synthetic data). Year 2025. College: Mithila Government Medical College (MIGMC), Bihar (Government college). Course: MBBS. Quota: State Quota. Category: SC. Number of seats: 17."
+        },
+        {
+          "id": "closing_ranks.csv#L566",
+          "source": "tables/closing_ranks.csv",
+          "text": "Closing rank record (synthetic data). Year 2023, Round 1 counselling. College: Mithila Government Medical College (MIGMC), Darbhanga, Bihar (Government college). Course: MBBS. Quota: State Quota. Category: SC. Opening rank: 37220. Closing rank: 96243."
+        }
+      ],
+      "flags": [],
+      "latency_s": 6.86,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "seat_matrix.csv#L299",
+          0.729
+        ],
+        [
+          "seat_matrix.csv#L289",
+          0.729
+        ],
+        [
+          "seat_matrix.csv#L294",
+          0.727
+        ],
+        [
+          "seat_matrix.csv#L274",
+          0.725
+        ],
+        [
+          "seat_matrix.csv#L284",
+          0.724
+        ],
+        [
+          "college_profiles.md#mithila-government-medical-college-migmc",
+          0.707
+        ],
+        [
+          "closing_ranks.csv#L566",
+          0.726
+        ],
+        [
+          "fees_2025.csv#L11",
+          0.741
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": false,
+        "route": false
+      },
+      "pass": false,
+      "notes": [
+        "missing 'not a guarantee'"
+      ]
+    }
+  },
+  {
+    "q": {
+      "id": "H13",
+      "type": "lookup",
+      "question": "How many BDS seats does Deccan Plateau Government Medical College have?",
+      "expect": "answer",
+      "must_contain": [
+        "50"
+      ]
+    },
+    "res": {
+      "question": "How many BDS seats does Deccan Plateau Government Medical College have?",
+      "route": "rag",
+      "status": "answered",
+      "reason": "",
+      "answer": "Deccan Plateau Government Medical College has 50 BDS seats.",
+      "citations": [
+        {
+          "id": "college_profiles.md#deccan-plateau-government-medical-college-dpgmc",
+          "source": "docs/college_profiles.md",
+          "text": "College profiles (SYNTHETIC) - Deccan Plateau Government Medical College (DPGMC)\nDeccan Plateau Government Medical College is a government medical college in Pune, Maharashtra, established in 1964. It offers MBBS and BDS. It has 200 MBBS seats and 50 BDS seats. Seats are filled through: All India Quota (15%), State Quota."
+        }
+      ],
+      "flags": [],
+      "latency_s": 1.81,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "college_profiles.md#deccan-plateau-government-medical-college-dpgmc",
+          0.869
+        ],
+        [
+          "seat_matrix.csv#L449",
+          0.825
+        ],
+        [
+          "seat_matrix.csv#L441",
+          0.839
+        ],
+        [
+          "seat_matrix.csv#L446",
+          0.838
+        ],
+        [
+          "seat_matrix.csv#L451",
+          0.84
+        ],
+        [
+          "seat_matrix.csv#L443",
+          0.821
+        ],
+        [
+          "seat_matrix.csv#L447",
+          0.822
+        ],
+        [
+          "seat_matrix.csv#L444",
+          0.823
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true,
+        "content": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  },
+  {
+    "q": {
+      "id": "H14",
+      "type": "refuse_missing_row",
+      "question": "What is the EWS closing rank for MBBS at Sahyadri Deemed University Medical College?",
+      "expect": "refuse"
+    },
+    "res": {
+      "question": "What is the EWS closing rank for MBBS at Sahyadri Deemed University Medical College?",
+      "route": "rag",
+      "status": "refused",
+      "reason": "model_not_in_sources",
+      "answer": "Not in the sources. The evidence does not provide the EWS closing rank for MBBS at Sahyadri Deemed University Medical College. [S1] mentions the college and its MBBS seats, but does not provide any information about the closing ranks for different categories. [S3] explains the concept of closing rank but does not provide the specific rank for EWS category at Sahyadri Deemed University Medical College.",
+      "citations": [],
+      "flags": [],
+      "latency_s": 6.67,
+      "model": "qwen2.5:7b-instruct",
+      "retrieved": [
+        [
+          "college_profiles.md#sahyadri-deemed-university-medical-college-sdumc",
+          0.758
+        ],
+        [
+          "fees_2025.csv#L28",
+          0.703
+        ],
+        [
+          "counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean",
+          0.648
+        ],
+        [
+          "college_profiles.md#vindhya-deemed-university-medical-college-vdumc",
+          0.665
+        ],
+        [
+          "college_profiles.md#eastern-health-medical-college-ehmc",
+          0.668
+        ],
+        [
+          "college_profiles.md#nandi-hills-medical-college-nhmc",
+          0.637
+        ],
+        [
+          "counselling_handbook.md#1-quotas-covered-in-this-dataset",
+          0.625
+        ],
+        [
+          "counselling_handbook.md#2-categories",
+          0.591
+        ]
+      ]
+    },
+    "grade": {
+      "checks": {
+        "behaviour": true
+      },
+      "pass": true,
+      "notes": []
+    }
+  }
+]

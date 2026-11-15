@@ -1,0 +1,29 @@
+year,college_code,college,state,college_type,course,annual_tuition_inr,annual_hostel_inr
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,18000,16000
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,23000,13000
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,29000,11000
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,22000,17000
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,32000,15000
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,42000,19000
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,60000,13000
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,22000,21000
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,39000,23000
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,31000,14000
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,26000,11000
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,22000,21000
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,30000,7000
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,46000,11000
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,20000,19000
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,25000,23000
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,39000,12000
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,28000,15000
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,28000,18000
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,49000,19000
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,58000,24000
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,1443000,60000
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,857000,49000
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,1423000,34000
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,1002000,40000
+2025,VDUMC,Vindhya Deemed University Medical College,Madhya Pradesh,Deemed,MBBS,2436000,42000
+2025,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,MBBS,2063000,89000
+2025,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,BDS,877000,67000

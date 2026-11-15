@@ -1,0 +1,700 @@
+year,college_code,college,state,college_type,course,quota,category,seats
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,4
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,10
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,SC,6
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,ST,3
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,15
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,4
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,10
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,SC,6
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,ST,3
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,15
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,4
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,10
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,SC,6
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,ST,3
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,15
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,EWS,21
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,OBC,57
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,SC,32
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,ST,16
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,GEN,86
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,EWS,21
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,OBC,57
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,SC,32
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,ST,16
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,GEN,86
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,EWS,22
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,OBC,60
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,SC,33
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,ST,17
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,MBBS,State,GEN,90
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,EWS,1
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,OBC,2
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,SC,1
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,ST,1
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,GEN,3
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,EWS,1
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,OBC,2
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,SC,1
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,ST,1
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,GEN,3
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,EWS,1
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,OBC,2
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,SC,1
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,ST,1
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,AIQ,GEN,3
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,EWS,4
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,OBC,11
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,SC,6
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,ST,3
+2023,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,GEN,18
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,EWS,4
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,OBC,11
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,SC,6
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,ST,3
+2024,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,GEN,18
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,EWS,4
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,OBC,11
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,SC,6
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,ST,3
+2025,HRGMC,Hooghly Riverside Government Medical College,West Bengal,Government,BDS,State,GEN,18
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,2
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,4
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,SC,2
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,ST,1
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,6
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,2
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,4
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,SC,2
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,ST,1
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,6
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,2
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,4
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,SC,2
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,ST,1
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,6
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,EWS,8
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,OBC,23
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,SC,13
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,ST,6
+2023,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,GEN,35
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,EWS,8
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,OBC,23
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,SC,13
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,ST,6
+2024,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,GEN,35
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,EWS,10
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,OBC,26
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,SC,14
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,ST,7
+2025,SGMC,Sundarban Government Medical College,West Bengal,Government,MBBS,State,GEN,38
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,3
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,8
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,SC,4
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,ST,2
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,13
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,3
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,8
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,SC,4
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,ST,2
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,13
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,EWS,3
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,OBC,8
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,SC,4
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,ST,2
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,AIQ,GEN,13
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,EWS,17
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,OBC,46
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,SC,26
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,ST,13
+2023,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,GEN,68
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,EWS,17
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,OBC,46
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,SC,26
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,ST,13
+2024,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,GEN,68
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,EWS,18
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,OBC,49
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,SC,27
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,ST,14
+2025,NBHGMC,North Bengal Hills Government Medical College,West Bengal,Government,MBBS,State,GEN,72
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,EWS,4
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,OBC,10
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,SC,6
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,ST,3
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,GEN,15
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,EWS,4
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,OBC,10
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,SC,6
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,ST,3
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,GEN,15
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,EWS,4
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,OBC,10
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,SC,6
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,ST,3
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,AIQ,GEN,15
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,EWS,21
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,OBC,57
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,SC,32
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,ST,16
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,GEN,86
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,EWS,21
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,OBC,57
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,SC,32
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,ST,16
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,GEN,86
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,EWS,22
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,OBC,60
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,SC,33
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,ST,17
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,MBBS,State,GEN,90
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,EWS,1
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,OBC,2
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,SC,1
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,ST,1
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,GEN,3
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,EWS,1
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,OBC,2
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,SC,1
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,ST,1
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,GEN,3
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,EWS,1
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,OBC,2
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,SC,1
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,ST,1
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,AIQ,GEN,3
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,EWS,4
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,OBC,11
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,SC,6
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,ST,3
+2023,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,GEN,18
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,EWS,4
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,OBC,11
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,SC,6
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,ST,3
+2024,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,GEN,18
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,EWS,4
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,OBC,11
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,SC,6
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,ST,3
+2025,KCGMC,Kalinga Coast Government Medical College,Odisha,Government,BDS,State,GEN,18
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,EWS,2
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,OBC,6
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,SC,3
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,ST,2
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,GEN,9
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,EWS,2
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,OBC,6
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,SC,3
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,ST,2
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,GEN,9
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,EWS,2
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,OBC,6
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,SC,3
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,ST,2
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,AIQ,GEN,9
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,EWS,13
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,OBC,35
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,SC,19
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,ST,10
+2023,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,GEN,51
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,EWS,13
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,OBC,35
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,SC,19
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,ST,10
+2024,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,GEN,51
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,EWS,14
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,OBC,37
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,SC,21
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,ST,10
+2025,MGMC,Mahanadi Government Medical College,Odisha,Government,MBBS,State,GEN,56
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,EWS,3
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,OBC,8
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,SC,4
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,ST,2
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,GEN,13
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,EWS,3
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,OBC,8
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,SC,4
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,ST,2
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,GEN,13
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,EWS,3
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,OBC,8
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,SC,4
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,ST,2
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,AIQ,GEN,13
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,EWS,17
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,OBC,46
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,SC,26
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,ST,13
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,GEN,68
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,EWS,17
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,OBC,46
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,SC,26
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,ST,13
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,GEN,68
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,EWS,18
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,OBC,49
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,SC,27
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,ST,14
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,MBBS,State,GEN,72
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,EWS,1
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,OBC,2
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,SC,1
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,ST,1
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,GEN,3
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,EWS,1
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,OBC,2
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,SC,1
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,ST,1
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,GEN,3
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,EWS,1
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,OBC,2
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,SC,1
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,ST,1
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,AIQ,GEN,3
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,EWS,4
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,OBC,11
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,SC,6
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,ST,3
+2023,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,GEN,18
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,EWS,4
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,OBC,11
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,SC,6
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,ST,3
+2024,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,GEN,18
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,EWS,4
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,OBC,11
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,SC,6
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,ST,3
+2025,GVGMC,Ganga Valley Government Medical College,Bihar,Government,BDS,State,GEN,18
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,EWS,2
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,OBC,5
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,SC,3
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,ST,1
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,GEN,7
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,EWS,2
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,OBC,5
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,SC,3
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,ST,1
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,GEN,7
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,EWS,2
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,OBC,5
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,SC,3
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,ST,1
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,AIQ,GEN,7
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,EWS,10
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,OBC,28
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,SC,15
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,ST,8
+2023,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,GEN,41
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,EWS,10
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,OBC,28
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,SC,15
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,ST,8
+2024,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,GEN,41
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,EWS,11
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,OBC,30
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,SC,17
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,ST,8
+2025,MIGMC,Mithila Government Medical College,Bihar,Government,MBBS,State,GEN,46
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,EWS,3
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,OBC,7
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,SC,4
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,ST,2
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,GEN,11
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,EWS,3
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,OBC,7
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,SC,4
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,ST,2
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,GEN,11
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,EWS,3
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,OBC,7
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,SC,4
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,ST,2
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,AIQ,GEN,11
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,EWS,15
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,OBC,41
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,SC,23
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,ST,11
+2023,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,GEN,63
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,EWS,15
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,OBC,41
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,SC,23
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,ST,11
+2024,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,GEN,63
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,EWS,16
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,OBC,44
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,SC,24
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,ST,12
+2025,CGMC,Chotanagpur Government Medical College,Jharkhand,Government,MBBS,State,GEN,67
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,EWS,3
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,OBC,8
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,SC,4
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,ST,2
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,GEN,13
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,EWS,3
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,OBC,8
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,SC,4
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,ST,2
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,GEN,13
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,EWS,3
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,OBC,8
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,SC,4
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,ST,2
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,AIQ,GEN,13
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,EWS,17
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,OBC,46
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,SC,26
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,ST,13
+2023,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,GEN,68
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,EWS,17
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,OBC,46
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,SC,26
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,ST,13
+2024,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,GEN,68
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,EWS,18
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,OBC,49
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,SC,27
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,ST,14
+2025,BGMC,Brahmaputra Government Medical College,Assam,Government,MBBS,State,GEN,72
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,EWS,2
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,OBC,6
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,SC,3
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,ST,2
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,GEN,9
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,EWS,2
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,OBC,6
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,SC,3
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,ST,2
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,GEN,9
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,EWS,2
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,OBC,6
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,SC,3
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,ST,2
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,AIQ,GEN,9
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,13
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,35
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,19
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,10
+2023,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,GEN,51
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,13
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,35
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,19
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,10
+2024,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,GEN,51
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,EWS,14
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,OBC,37
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,SC,21
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,ST,10
+2025,YIMS,Yamuna Institute of Medical Sciences,Delhi,Government,MBBS,State,GEN,56
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,3
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,8
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,4
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,2
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,13
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,3
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,8
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,4
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,2
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,13
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,3
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,8
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,4
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,2
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,13
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,EWS,17
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,OBC,46
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,SC,26
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,ST,13
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,GEN,68
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,EWS,17
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,OBC,46
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,SC,26
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,ST,13
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,GEN,68
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,EWS,18
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,OBC,49
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,SC,27
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,ST,14
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,MBBS,State,GEN,72
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,EWS,1
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,OBC,2
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,SC,1
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,ST,1
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,GEN,3
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,EWS,1
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,OBC,2
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,SC,1
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,ST,1
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,GEN,3
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,EWS,1
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,OBC,2
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,SC,1
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,ST,1
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,AIQ,GEN,3
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,EWS,4
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,OBC,11
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,SC,6
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,ST,3
+2023,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,GEN,18
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,EWS,4
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,OBC,11
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,SC,6
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,ST,3
+2024,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,GEN,18
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,EWS,4
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,OBC,11
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,SC,6
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,ST,3
+2025,DPGMC,Deccan Plateau Government Medical College,Maharashtra,Government,BDS,State,GEN,18
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,2
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,4
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,2
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,1
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,6
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,2
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,4
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,2
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,1
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,6
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,EWS,2
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,OBC,4
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,SC,2
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,ST,1
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,AIQ,GEN,6
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,EWS,8
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,OBC,23
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,SC,13
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,ST,6
+2023,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,GEN,35
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,EWS,8
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,OBC,23
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,SC,13
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,ST,6
+2024,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,GEN,35
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,EWS,10
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,OBC,26
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,SC,14
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,ST,7
+2025,KOGMC,Konkan Government Medical College,Maharashtra,Government,MBBS,State,GEN,38
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,EWS,2
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,OBC,6
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,SC,3
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,ST,2
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,GEN,9
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,EWS,2
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,OBC,6
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,SC,3
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,ST,2
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,GEN,9
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,EWS,2
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,OBC,6
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,SC,3
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,ST,2
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,AIQ,GEN,9
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,EWS,13
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,OBC,35
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,SC,19
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,ST,10
+2023,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,GEN,51
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,EWS,13
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,OBC,35
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,SC,19
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,ST,10
+2024,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,GEN,51
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,EWS,14
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,OBC,37
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,SC,21
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,ST,10
+2025,KAGMC,Kaveri Government Medical College,Karnataka,Government,MBBS,State,GEN,56
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,EWS,4
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,OBC,10
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,SC,6
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,ST,3
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,GEN,15
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,EWS,4
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,OBC,10
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,SC,6
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,ST,3
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,GEN,15
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,EWS,4
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,OBC,10
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,SC,6
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,ST,3
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,AIQ,GEN,15
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,EWS,21
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,OBC,57
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,SC,32
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,ST,16
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,GEN,86
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,EWS,21
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,OBC,57
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,SC,32
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,ST,16
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,GEN,86
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,EWS,22
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,OBC,60
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,SC,33
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,ST,17
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,MBBS,State,GEN,90
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,EWS,1
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,OBC,2
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,SC,1
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,ST,1
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,GEN,3
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,EWS,1
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,OBC,2
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,SC,1
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,ST,1
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,GEN,3
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,EWS,1
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,OBC,2
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,SC,1
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,ST,1
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,AIQ,GEN,3
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,EWS,4
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,OBC,11
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,SC,6
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,ST,3
+2023,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,GEN,18
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,EWS,4
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,OBC,11
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,SC,6
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,ST,3
+2024,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,GEN,18
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,EWS,4
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,OBC,11
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,SC,6
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,ST,3
+2025,COGMC,Coromandel Government Medical College,Tamil Nadu,Government,BDS,State,GEN,18
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,4
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,10
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,6
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,3
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,15
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,4
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,10
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,6
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,3
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,15
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,4
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,10
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,6
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,3
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,15
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,21
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,57
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,32
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,16
+2023,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,86
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,21
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,57
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,32
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,16
+2024,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,86
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,22
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,60
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,33
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,17
+2025,AGMC,Awadh Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,90
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,2
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,6
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,3
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,2
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,9
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,2
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,6
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,3
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,2
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,9
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,EWS,2
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,OBC,6
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,SC,3
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,ST,2
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,AIQ,GEN,9
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,13
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,35
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,19
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,10
+2023,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,51
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,13
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,35
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,19
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,10
+2024,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,51
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,EWS,14
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,OBC,37
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,SC,21
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,ST,10
+2025,BUGMC,Bundelkhand Government Medical College,Uttar Pradesh,Government,MBBS,State,GEN,56
+2023,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,15
+2023,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,40
+2023,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,22
+2023,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,11
+2023,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,GEN,62
+2024,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,15
+2024,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,40
+2024,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,22
+2024,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,11
+2024,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,GEN,62
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,EWS,15
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,OBC,40
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,SC,22
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,ST,11
+2025,SLIMS,Salt Lake Institute of Medical Sciences,West Bengal,Private,MBBS,State,GEN,62
+2023,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,EWS,15
+2023,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,OBC,40
+2023,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,SC,22
+2023,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,ST,11
+2023,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,GEN,62
+2024,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,EWS,15
+2024,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,OBC,40
+2024,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,SC,22
+2024,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,ST,11
+2024,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,GEN,62
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,EWS,15
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,OBC,40
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,SC,22
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,ST,11
+2025,EHMC,Eastern Health Medical College,Odisha,Private,MBBS,State,GEN,62
+2023,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,EWS,15
+2023,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,OBC,40
+2023,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,SC,22
+2023,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,ST,11
+2023,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,GEN,62
+2024,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,EWS,15
+2024,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,OBC,40
+2024,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,SC,22
+2024,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,ST,11
+2024,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,GEN,62
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,EWS,15
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,OBC,40
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,SC,22
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,ST,11
+2025,NHMC,Nandi Hills Medical College,Karnataka,Private,MBBS,State,GEN,62
+2023,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,EWS,15
+2023,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,OBC,40
+2023,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,SC,22
+2023,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,ST,11
+2023,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,GEN,62
+2024,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,EWS,15
+2024,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,OBC,40
+2024,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,SC,22
+2024,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,ST,11
+2024,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,GEN,62
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,EWS,15
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,OBC,40
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,SC,22
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,ST,11
+2025,MPMC,Marina Private Medical College,Tamil Nadu,Private,MBBS,State,GEN,62
+2023,VDUMC,Vindhya Deemed University Medical College,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,150
+2024,VDUMC,Vindhya Deemed University Medical College,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,150
+2025,VDUMC,Vindhya Deemed University Medical College,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,150
+2023,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,MBBS,Deemed,GEN,150
+2024,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,MBBS,Deemed,GEN,150
+2025,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,MBBS,Deemed,GEN,150
+2023,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,BDS,Deemed,GEN,100
+2024,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,BDS,Deemed,GEN,100
+2025,SDUMC,Sahyadri Deemed University Medical College,Maharashtra,Deemed,BDS,Deemed,GEN,100

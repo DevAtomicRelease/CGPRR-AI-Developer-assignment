@@ -1,0 +1,1373 @@
+year,round,college_code,college,city,state,college_type,course,quota,category,opening_rank,closing_rank
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,450,946
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,353,993
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,426,1042
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,452,1164
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,617,1106
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,585,1208
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,1782,4266
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,1750,4518
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,3367,5895
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,3782,6529
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,446,950
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,557,1046
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,653,1096
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,537,1224
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,557,1092
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,670,1172
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,1629,4423
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,1768,4677
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,2864,6607
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,2833,7360
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,380,905
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,GEN,507,951
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,412,1014
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,EWS,482,1059
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,452,1030
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,OBC,629,1120
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,1799,4106
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,SC,2469,4520
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,2846,6014
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,AIQ,ST,2994,6328
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,719,1374
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,804,1498
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,869,1605
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,717,1735
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,815,1721
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,1095,1872
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,3919,7047
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,4074,7723
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,5085,9795
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,4251,10941
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,673,1626
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,795,1797
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,628,1780
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,1084,1908
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,848,1852
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,794,1944
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,3704,7722
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,4048,8488
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,4306,10256
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,6088,11270
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,811,1358
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,GEN,809,1420
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,651,1475
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,EWS,922,1586
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,881,1560
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,OBC,720,1730
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,2610,6951
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,SC,3473,7500
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,4557,9320
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,MBBS,State,ST,3899,9758
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,12477,29308
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,16369,31785
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,17005,35592
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,20469,37841
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,13918,35159
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,19797,37289
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,55052,153941
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,66188,160342
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,89616,195528
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,77639,215987
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,11581,31853
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,15676,35411
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,14944,36145
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,19457,39400
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,17125,38635
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,17330,40673
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,83399,159636
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,82136,175991
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,102910,225730
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,95245,242260
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,16092,29000
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,GEN,16942,31612
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,17516,33432
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,EWS,17902,36411
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,16458,35254
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,OBC,17164,39470
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,76001,141924
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,SC,56700,148731
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,94730,186582
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,AIQ,ST,107706,197952
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,18301,48924
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,18443,52687
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,24182,58179
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,23366,63677
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,25688,57468
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,27229,64176
+2023,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,140044,241324
+2023,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,102701,259877
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,18994,51341
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,23453,56537
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,30503,56387
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,35654,62439
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,26885,59495
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,36121,63378
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,123384,258348
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,116325,276645
+2024,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,ST,124335,334592
+2024,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,ST,172064,372699
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,22414,49833
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,GEN,31386,53650
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,29402,54489
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,EWS,24459,59642
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,33676,56682
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,OBC,36595,63310
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,127860,226821
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,SC,98421,239211
+2025,1,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,ST,171711,310588
+2025,2,HRGMC,Hooghly Riverside Government Medical College,Kolkata,West Bengal,Government,BDS,State,ST,176064,331521
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,3287,6644
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,3255,7278
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,4383,7672
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,3908,8591
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,2802,7417
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,3003,8199
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,16086,31104
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,18887,32954
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,3849,7232
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,3263,7673
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,4270,7509
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,3938,8174
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,4749,8578
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,3185,8951
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,15053,33784
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,15615,36652
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,ST,25759,45001
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,ST,19407,50394
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,2579,6013
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,GEN,3737,6264
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,2639,6994
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,EWS,2780,7626
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,4530,7637
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,OBC,4199,8226
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,12048,29270
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,SC,11424,31530
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,ST,16686,40270
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,AIQ,ST,19695,43966
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,4638,10534
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,5164,11629
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,4431,11682
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,7288,12958
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,4881,11772
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,5822,12399
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,22778,52210
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,19250,54362
+2023,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,39753,71538
+2023,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,45811,76698
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,5372,11342
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,5144,12064
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,7100,12116
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,6112,12715
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,5344,12515
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,5142,13403
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,22923,56115
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,22417,58633
+2024,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,36542,71024
+2024,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,44959,76773
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,4439,10124
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,GEN,4439,10974
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,5907,10760
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,EWS,4828,11441
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,6156,12213
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,OBC,7139,13457
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,29329,49447
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,SC,20111,52659
+2025,1,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,27766,63531
+2025,2,SGMC,Sundarban Government Medical College,Diamond Harbour,West Bengal,Government,MBBS,State,ST,40854,70825
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,3881,9311
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,4763,9724
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,4606,10025
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,5158,10664
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,4848,9996
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,5050,10579
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,20445,42986
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,23285,46817
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,20629,58680
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,26111,63102
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,4676,9247
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,6058,10175
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,5094,11386
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,5790,11944
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,5212,11447
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,5607,12302
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,20883,45879
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,23007,48009
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,35887,63717
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,25356,66523
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,4501,8685
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,GEN,4393,9131
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,4527,9711
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,EWS,4769,10652
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,4266,10178
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,OBC,4789,10846
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,21303,42738
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,SC,23715,45539
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,34154,57807
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,AIQ,ST,32514,61119
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,6566,13998
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,5640,15482
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,7256,16802
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,7825,17990
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,6861,17916
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,6837,18841
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,29167,69606
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,42207,75154
+2023,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,36597,94796
+2023,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,43253,102941
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,5947,15141
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,9646,16324
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,9460,17447
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,7194,19402
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,6838,18198
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,11252,20350
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,44060,75114
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,47285,82187
+2024,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,60542,101920
+2024,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,43147,110270
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,7567,13551
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,GEN,8447,15067
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,7220,15363
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,EWS,8926,16335
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,7274,16328
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,OBC,8253,17442
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,31326,67990
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,SC,42210,71951
+2025,1,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,35665,92349
+2025,2,NBHGMC,North Bengal Hills Government Medical College,Siliguri,West Bengal,Government,MBBS,State,ST,58981,101438
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,2009,4393
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,2001,4659
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,1803,4676
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,2122,4888
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,1786,5023
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,1993,5360
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,11364,20556
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,12846,21803
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,11510,28879
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,13779,31387
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,1769,4364
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,2779,4799
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,2628,5038
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,2160,5279
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,2826,5358
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,2157,5835
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,8594,20896
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,10117,23368
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,9651,27553
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,14655,29674
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,1922,4302
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,GEN,2111,4714
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,2193,4293
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,EWS,2633,4698
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,2012,4593
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,OBC,2081,5048
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,9275,19548
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,SC,10360,20689
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,10792,27186
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,AIQ,ST,16791,28768
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,2588,6478
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,4125,6923
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,3749,7295
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,4599,7876
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,4333,7959
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,2943,8383
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,14193,31949
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,18032,35284
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,16058,44172
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,27269,48003
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,3631,7600
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,4205,8083
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,2684,7636
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,2931,8225
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,3521,8802
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,5545,9815
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,12829,33579
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,12599,35616
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,25364,47698
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,26263,52694
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,2565,6474
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,GEN,3595,6959
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,3275,7276
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,EWS,2939,7909
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,3492,7848
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,OBC,4960,8300
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,18744,31884
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,SC,15662,34158
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,20787,42775
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,MBBS,State,ST,18762,46306
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,20003,39411
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,20776,41008
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,16693,42903
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,19411,45004
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,18889,44857
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,25656,47422
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,74809,189141
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,110762,205123
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,144025,248822
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,140670,263098
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,20003,39744
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,16406,43601
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,24807,43687
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,22393,48818
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,16611,45904
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,22352,50129
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,105714,193105
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,102761,204352
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,108861,268082
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,169528,289794
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,12443,34785
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,GEN,18939,37768
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,14974,39989
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,EWS,15449,43825
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,23976,41264
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,OBC,17978,45896
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,73958,179661
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,SC,112920,198529
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,89834,242652
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,AIQ,ST,101900,262993
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,35589,60965
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,34425,66910
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,34558,68165
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,37533,72902
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,27871,75960
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,38684,79139
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,110477,298919
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,176550,316427
+2023,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,ST,145553,371979
+2023,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,ST,150093,408131
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,24206,63455
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,37107,70664
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,28304,74310
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,44216,79368
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,37642,73735
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,41362,82028
+2024,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,126894,313376
+2024,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,155735,331238
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,33899,59815
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,GEN,24622,64968
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,35886,68309
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,EWS,39589,74005
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,35656,71819
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,OBC,40730,75454
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,134614,289063
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,SC,154382,322573
+2025,1,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,ST,149107,404877
+2025,2,KCGMC,Kalinga Coast Government Medical College,Cuttack,Odisha,Government,BDS,State,ST,199026,424764
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,4753,11920
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,6640,12949
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,4888,12879
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,5439,13521
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,7337,13351
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,8298,14353
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,32402,56180
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,29550,62101
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,37924,78569
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,33655,84563
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,4852,11572
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,5131,12522
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,7798,13283
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,5317,13845
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,4990,14243
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,9515,15907
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,24019,60158
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,33455,64131
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,40741,78602
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,46952,83771
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,4512,11728
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,GEN,7482,12569
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,7281,12663
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,EWS,7608,13249
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,6713,12379
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,OBC,4643,13072
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,29557,55710
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,SC,28050,60587
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,34150,74260
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,AIQ,ST,46227,82621
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,10774,18436
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,9550,19354
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,10766,21453
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,10340,23747
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,8895,22578
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,14103,23687
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,44142,89704
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,36300,98973
+2023,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,49035,116046
+2023,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,67840,129060
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,11705,20595
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,10386,21912
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,10091,22157
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,10072,23114
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,13536,22639
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,14605,24981
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,47067,99237
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,61717,104641
+2024,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,66018,131729
+2024,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,66233,146783
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,7181,17020
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,GEN,7871,18793
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,12044,21028
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,EWS,8852,21994
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,10133,22242
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,OBC,9670,24258
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,36769,80903
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,SC,39036,88703
+2025,1,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,63205,115156
+2025,2,MGMC,Mahanadi Government Medical College,Sambalpur,Odisha,Government,MBBS,State,ST,57643,122766
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,1534,3856
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,2271,4044
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,1588,4145
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,2270,4527
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,2158,4518
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,1933,4751
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,7524,17209
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,11036,18478
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,11991,25828
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,12776,27701
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,2016,3953
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,2487,4171
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,2099,4494
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,1723,4761
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,2235,4841
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,1835,5176
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,7325,20539
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,9065,22586
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,13126,25563
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,14046,28483
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,1587,3800
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,GEN,1721,4006
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,1768,4355
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,EWS,2478,4684
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,2063,4429
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,OBC,1789,4917
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,10587,17685
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,SC,9416,19576
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,8775,23265
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,AIQ,ST,14330,25027
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,3525,6169
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,2958,6803
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,3663,7060
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,3816,7471
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,3659,7508
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,4214,8087
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,16794,29809
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,12939,32764
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,24124,41133
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,24197,44584
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,2790,6252
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,2647,6969
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,3340,6988
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,4450,7656
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,4368,7869
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,3048,8273
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,12974,30029
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,16422,33045
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,17686,39922
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,24965,43193
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,3696,6219
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,GEN,3047,6640
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,3357,6232
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,EWS,2968,6687
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,3909,6662
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,OBC,3340,7214
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,11129,28765
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,SC,17879,30245
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,19178,38425
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,MBBS,State,ST,23072,42924
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,21427,36160
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,14958,39964
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,22328,38691
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,22028,41763
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,22221,43559
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,20576,48619
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,96603,168479
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,85140,183022
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,15140,37152
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,16251,39250
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,14779,41812
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,17969,44374
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,22545,45537
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,22766,48401
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,97114,195696
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,96509,209773
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,ST,97205,263273
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,ST,161734,277201
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,17941,36769
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,GEN,22796,39746
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,21418,40878
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,EWS,17525,45540
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,21257,42369
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,OBC,20445,45827
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,102776,171660
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,SC,103783,182477
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,ST,82522,223104
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,AIQ,ST,142417,240649
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,23538,56433
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,31018,61066
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,28542,64179
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,33810,71801
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,30957,67411
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,38429,74320
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,110538,283151
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,150146,296699
+2023,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,ST,186111,362947
+2023,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,ST,139944,393553
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,36836,64105
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,25402,70003
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,26142,69807
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,26364,72921
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,31496,71206
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,35092,78306
+2024,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,110390,289043
+2024,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,144842,321996
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,29463,56767
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,GEN,27452,62217
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,29665,60054
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,EWS,34213,65283
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,35890,68674
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,OBC,41677,76275
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,115265,258258
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,SC,105545,272741
+2025,1,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,ST,193232,374751
+2025,2,GVGMC,Ganga Valley Government Medical College,Patna,Bihar,Government,BDS,State,ST,238761,413243
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,7044,12968
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,5558,13519
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,6192,14774
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,7680,16295
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,6540,14837
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,7874,15581
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,22675,61813
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,27300,65321
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,5811,13970
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,8259,14669
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,9223,16337
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,6891,17921
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,7570,16107
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,7262,17344
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,26428,68946
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,41152,74351
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,ST,44478,87647
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,ST,39308,96356
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,5345,12311
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,GEN,5724,13486
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,6061,14544
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,EWS,5670,16016
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,7874,14371
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,OBC,8539,15928
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,32009,61977
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,SC,38034,67368
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,ST,34024,83672
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,AIQ,ST,31163,88033
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,10086,21121
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,10492,22998
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,13210,22349
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,13355,23985
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,15295,25569
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,10700,27360
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,37220,96243
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,38417,107451
+2023,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,ST,53369,131326
+2023,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,ST,69923,145281
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,12176,21684
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,9746,23242
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,10798,26072
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,13441,28519
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,13562,26365
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,13171,28963
+2024,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,60647,111551
+2024,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,51861,120153
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,9773,19187
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,GEN,10159,20198
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,13026,22240
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,EWS,10310,24720
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,10980,23827
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,OBC,14249,26479
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,54465,100757
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,SC,60416,105700
+2025,1,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,ST,50841,133755
+2025,2,MIGMC,Mithila Government Medical College,Darbhanga,Bihar,Government,MBBS,State,ST,76782,144929
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,4203,10108
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,6207,10896
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,5835,11596
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,7255,12313
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,6292,12417
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,7634,13466
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,21170,48498
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,27156,51758
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,ST,36641,70121
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,ST,28288,75808
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,6166,11137
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,5893,12342
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,5423,12555
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,7990,13483
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,6117,12717
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,6796,13640
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,24519,55494
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,35618,60101
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,4952,9326
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,GEN,5732,9916
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,6542,11545
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,EWS,6780,12921
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,6894,12128
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,OBC,7032,13012
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,22654,49198
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,AIQ,SC,25093,51933
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,6427,15553
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,6626,17140
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,10502,17884
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,11224,19696
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,6422,18182
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,10492,19355
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,47241,78800
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,51144,87164
+2023,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,54934,108705
+2023,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,45119,120442
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,8076,18104
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,11324,19483
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,10808,19190
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,7727,20246
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,11114,21549
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,11321,23569
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,35932,86083
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,54896,93970
+2024,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,62388,116273
+2024,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,57959,122541
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,7233,15176
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,GEN,7187,16139
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,6924,16941
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,EWS,9146,18275
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,8917,19100
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,OBC,9249,20087
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,32753,80302
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,SC,36798,89193
+2025,1,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,55547,101269
+2025,2,CGMC,Chotanagpur Government Medical College,Ranchi,Jharkhand,Government,MBBS,State,ST,42303,110123
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,4333,7809
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,4777,8600
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,4339,7809
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,4645,8650
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,3398,9020
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,4684,9983
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,14142,35696
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,20380,38835
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,26972,45563
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,21010,50517
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,3233,7549
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,3381,8002
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,3238,8796
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,4659,9640
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,4868,8972
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,3970,9932
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,18672,37100
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,23757,40836
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,26263,54549
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,22410,57037
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,3371,7230
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,GEN,4172,7734
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,3584,8052
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,EWS,4546,8445
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,5038,8917
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,OBC,4911,9867
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,13313,35280
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,SC,20278,36730
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,21173,45769
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,AIQ,ST,20723,50591
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,4868,12344
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,5174,13472
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,4853,12776
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,6414,14117
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,7380,13730
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,7719,14333
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,21915,57954
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,31909,64674
+2023,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,33663,78078
+2023,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,32571,85805
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,5278,12081
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,5845,12755
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,8108,13574
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,6141,14946
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,8114,15255
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,6301,16556
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,21843,58987
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,37093,65132
+2024,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,32651,80367
+2024,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,50946,84943
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,4486,12093
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,GEN,5439,13473
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,6581,13457
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,EWS,8253,14656
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,6648,13756
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,OBC,8304,14737
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,23474,51826
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,SC,31022,57031
+2025,1,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,26417,70399
+2025,2,BGMC,Brahmaputra Government Medical College,Guwahati,Assam,Government,MBBS,State,ST,38515,74157
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,137,235
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,93,260
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,144,296
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,160,318
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,143,292
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,140,312
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,443,1164
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,496,1222
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,826,1535
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,748,1688
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,131,280
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,180,313
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,110,284
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,161,302
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,144,306
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,137,333
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,491,1351
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,786,1433
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,729,1806
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,1126,1916
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,130,250
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,GEN,115,261
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,115,270
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,EWS,153,289
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,164,281
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,OBC,112,299
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,641,1102
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,SC,498,1163
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,655,1640
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,AIQ,ST,809,1833
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,168,414
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,246,435
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,271,469
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,287,515
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,250,472
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,303,525
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,783,1947
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,1011,2143
+2023,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1368,2640
+2023,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1544,2936
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,199,422
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,178,465
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,231,506
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,281,529
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,201,484
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,198,526
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,1129,2064
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,1188,2304
+2024,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1345,2893
+2024,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1549,3088
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,194,398
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,GEN,149,427
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,171,419
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,EWS,177,444
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,247,456
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,OBC,233,489
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,875,1954
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,SC,808,2081
+2025,1,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1454,2478
+2025,2,YIMS,Yamuna Institute of Medical Sciences,New Delhi,Delhi,Government,MBBS,State,ST,1544,2584
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,840,1804
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,1183,2008
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,734,1896
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,1132,2058
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,891,2135
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,986,2361
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,4616,8511
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,5426,9181
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,7010,12078
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,6287,12769
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,1191,2036
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,1192,2206
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,1200,2160
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,1198,2307
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,1073,2160
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,1399,2415
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,4071,8893
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,4895,9332
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,7626,12740
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,5848,13349
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,991,1664
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,GEN,694,1763
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,988,1930
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,EWS,1107,2124
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,817,2035
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,OBC,948,2235
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,3271,8724
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,SC,3484,9728
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,5622,11841
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,AIQ,ST,4571,13033
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1526,3047
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1361,3270
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1888,3184
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1773,3348
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1973,3541
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1800,3940
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,6054,13908
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,6754,15329
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,11045,19289
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,10243,20933
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1717,2986
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1693,3293
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1671,3530
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1514,3725
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1693,3667
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1859,3982
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,7216,15584
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,7709,17173
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,10045,20757
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,12398,22547
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1675,2823
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,GEN,1802,3126
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1185,3183
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,EWS,1634,3438
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1414,3289
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,OBC,1593,3471
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,7991,13691
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,SC,5431,14743
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,6927,17487
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,MBBS,State,ST,9311,18703
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,15110,34798
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,21713,37205
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,15582,38842
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,15946,40560
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,17735,37687
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,21527,41673
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,79813,166894
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,84115,178001
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,130614,219909
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,99408,236914
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,13454,33536
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,15684,36894
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,16130,40436
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,20518,42737
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,24632,42742
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,22778,47302
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,58238,161524
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,60848,169597
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,109808,224336
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,131569,246372
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,15137,32328
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,GEN,18556,34778
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,17045,34255
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,EWS,21756,38223
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,19920,38723
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,OBC,19645,41869
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,94715,161651
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,SC,65399,174693
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,98299,210162
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,AIQ,ST,84962,227426
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,20757,53765
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,26062,56100
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,29473,61888
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,24417,68382
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,25691,60560
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,37301,66358
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,109941,267414
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,160779,279155
+2023,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,131424,333339
+2023,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,158795,356399
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,20730,57488
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,23728,60725
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,25038,60553
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,32669,67420
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,29110,64243
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,41124,70442
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,153704,274762
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,145180,290599
+2024,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,161187,374052
+2024,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,225497,398357
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,19689,51826
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,GEN,30257,53953
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,20315,56792
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,EWS,35725,62967
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,36546,61718
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,OBC,26120,67758
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,95491,238673
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,SC,151929,266578
+2025,1,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,142521,342139
+2025,2,DPGMC,Deccan Plateau Government Medical College,Pune,Maharashtra,Government,BDS,State,ST,149558,380589
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,7689,14525
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,5348,15180
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,6400,15765
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,6272,16994
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,7496,16579
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,7155,18490
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,35594,72317
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,43695,76137
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,39927,99868
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,52657,105837
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,5804,16161
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,8312,17165
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,6478,17504
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,9526,18229
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,8236,17226
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,10102,18244
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,35327,72211
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,28618,75413
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,52918,102233
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,59231,109236
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,6532,13358
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,GEN,5416,14666
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,7659,15459
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,EWS,5966,16284
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,9191,15927
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,OBC,9011,17458
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,34833,68178
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,SC,31723,76185
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,38637,87729
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,AIQ,ST,41874,95240
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,10805,21968
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,13340,24095
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,14903,25303
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,16097,27949
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,14876,27049
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,15621,29676
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,61497,110291
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,64301,116523
+2023,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,93692,158022
+2023,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,88821,172798
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,14537,25919
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,16375,27841
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,10260,26984
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,11243,28737
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,13259,28468
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,16889,31186
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,45942,115816
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,58661,127547
+2024,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,86834,155891
+2024,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,81170,167885
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,11893,21308
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,GEN,10691,22825
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,14803,26323
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,EWS,9973,28346
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,11908,24979
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,OBC,14152,27751
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,53750,110531
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,SC,55320,118972
+2025,1,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,77423,137793
+2025,2,KOGMC,Konkan Government Medical College,Ratnagiri,Maharashtra,Government,MBBS,State,ST,87820,146861
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,2200,5421
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,2835,5835
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,3240,5864
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,2352,6310
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,3341,6320
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,3842,6736
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,14757,25523
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,14666,26954
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,16896,33182
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,16892,37002
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,3358,5650
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,3417,5956
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,3035,6544
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,3589,7273
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,3354,6747
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,4341,7484
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,12275,26173
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,12929,28606
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,19720,36334
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,21281,39318
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,2372,4985
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,GEN,2196,5253
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,2173,5423
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,EWS,3339,5988
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,2828,5631
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,OBC,2932,6071
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,12797,23421
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,SC,12491,25297
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,17876,33417
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,AIQ,ST,15017,36997
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,4273,8362
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,3463,9139
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,3887,8841
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,4648,9858
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,4914,9464
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,4433,9870
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,23045,41597
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,17400,45793
+2023,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,26028,52133
+2023,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,21859,58025
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,4287,9078
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,3782,9701
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,6036,10392
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,4446,11351
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,6404,10737
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,5725,11475
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,22718,41011
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,17346,42973
+2024,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,21877,55032
+2024,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,24607,58879
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,4872,8467
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,GEN,3823,9188
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,4024,9433
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,EWS,5867,10459
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,3416,9304
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,OBC,5152,9867
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,15904,36752
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,SC,23718,40215
+2025,1,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,28076,49443
+2025,2,KAGMC,Kaveri Government Medical College,Mysuru,Karnataka,Government,MBBS,State,ST,27755,52653
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,648,1239
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,673,1331
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,612,1419
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,714,1495
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,614,1538
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,851,1664
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,3286,6365
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,3514,6666
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,3320,8761
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,3599,9620
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,564,1353
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,802,1503
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,740,1580
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,987,1692
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,713,1706
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,970,1895
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,3421,6303
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,2447,6738
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,5208,8716
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,5581,9354
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,626,1277
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,GEN,790,1341
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,763,1399
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,EWS,705,1550
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,650,1520
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,OBC,798,1693
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,2234,6077
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,SC,3626,6778
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,3670,8096
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,AIQ,ST,3815,8769
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1011,2130
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1337,2321
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,884,2369
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,1311,2508
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,917,2474
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,1118,2714
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,3461,9691
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,6009,10193
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,4945,13119
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,5510,14139
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1105,2138
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1174,2335
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,882,2474
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,1381,2726
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,1415,2479
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,1105,2775
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,5432,10172
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,6105,10737
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,5552,14037
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,8968,15154
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1047,1999
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,GEN,1084,2149
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,816,2220
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,EWS,1007,2431
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,1274,2303
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,OBC,1284,2471
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,3451,9116
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,SC,5435,9645
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,5962,13054
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,MBBS,State,ST,6261,13732
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,10823,29682
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,13513,31356
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,14408,35608
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,22340,38206
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,16852,34353
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,16444,37723
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,66913,146695
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,59568,162870
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,19220,32825
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,17155,34810
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,17191,37011
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,17920,41183
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,15720,37762
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,16341,41074
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,78373,159755
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,93210,169124
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,ST,111294,219207
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,ST,127489,244745
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,10856,29963
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,GEN,17723,32046
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,13649,34429
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,EWS,20244,36934
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,18534,34896
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,OBC,14257,38820
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,78128,140366
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,SC,76665,147083
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,ST,102132,198533
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,AIQ,ST,89167,206902
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,26232,47393
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,28546,49850
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,20842,50923
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,31949,56915
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,19245,53833
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,27740,58422
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,80034,224939
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,122528,234418
+2023,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,168566,295932
+2023,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,185023,319253
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,20116,52078
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,30014,57057
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,24831,60380
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,29345,64719
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,33037,59305
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,22302,62846
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,137104,249408
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,154810,276287
+2024,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,186375,339611
+2024,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,143109,379993
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,25827,46145
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,GEN,28499,51256
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,28699,51373
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,EWS,25358,57137
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,22384,57284
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,OBC,27435,60968
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,113301,225410
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,SC,130024,246957
+2025,1,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,170221,307806
+2025,2,COGMC,Coromandel Government Medical College,Chennai,Tamil Nadu,Government,BDS,State,ST,142062,341562
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1429,2482
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1543,2746
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1206,2898
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1258,3237
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1188,3107
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1201,3246
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,7004,12667
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,7925,13995
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,ST,8266,16528
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,ST,6985,18057
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1354,2747
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1189,2962
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1255,2956
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1696,3179
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1443,3229
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1563,3420
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,7732,13886
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,8075,15125
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1500,2543
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,GEN,1004,2836
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1331,2829
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,EWS,1616,2968
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1627,2908
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,OBC,1673,3190
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,5760,11830
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,AIQ,SC,5462,12833
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,1640,4178
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,1694,4608
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,2221,4905
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,2007,5481
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,2810,4710
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,2050,5133
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,7598,19802
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,8246,20824
+2023,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,12321,27193
+2023,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,15043,28995
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,1956,4702
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,2029,5123
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,1881,5047
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,2793,5622
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,2388,5297
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,3260,5801
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,9736,21249
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,9731,23545
+2024,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,14987,28025
+2024,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,11017,29298
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,1969,3883
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,GEN,1740,4068
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,1705,4314
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,EWS,2439,4672
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,2737,4727
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,OBC,2353,5053
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,8346,20329
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,SC,10271,21786
+2025,1,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,12566,25545
+2025,2,AGMC,Awadh Government Medical College,Lucknow,Uttar Pradesh,Government,MBBS,State,ST,16248,28066
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,8533,16001
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,9279,16929
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,6380,17169
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,7725,17998
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,9769,18914
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,9330,20393
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,35903,80367
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,35377,84531
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,56705,97889
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,52230,104240
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,5805,16388
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,8669,18053
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,7807,18989
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,8749,21008
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,11279,20221
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,12277,21436
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,30600,86597
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,34708,95902
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,44759,109783
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,60447,120100
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,7267,16058
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,GEN,6758,16998
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,8375,17616
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,EWS,7079,19017
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,9546,17424
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,OBC,7355,18297
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,41171,70583
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,SC,46361,78581
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,47636,100831
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,AIQ,ST,38265,105811
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,13632,26625
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,15675,28453
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,15294,27159
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,13330,29365
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,12855,30775
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,12659,33019
+2023,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,64949,123862
+2023,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,68856,137582
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,11549,28194
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,17687,30518
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,11229,31601
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,20726,35183
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,18243,31594
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,15511,34303
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,50678,129940
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,48516,137786
+2024,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,ST,96214,177561
+2024,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,ST,71828,186622
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,12743,24852
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,GEN,11959,26867
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,13928,26758
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,EWS,13637,29346
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,12309,29890
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,OBC,12233,33290
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,59175,123439
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,SC,65869,137296
+2025,1,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,ST,61451,152921
+2025,2,BUGMC,Bundelkhand Government Medical College,Jhansi,Uttar Pradesh,Government,MBBS,State,ST,59645,163682
+2023,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,24362,54055
+2023,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,31509,56865
+2023,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,34068,56838
+2023,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,22818,62408
+2023,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,21158,57998
+2023,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,26401,62615
+2023,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,151115,264033
+2023,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,137094,291215
+2023,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,166929,319096
+2023,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,127291,351945
+2024,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,20813,58562
+2024,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,24620,61490
+2024,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,30920,58771
+2024,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,35918,65638
+2024,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,28237,65687
+2024,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,33904,72481
+2024,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,150297,269288
+2024,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,106085,298172
+2024,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,177664,369892
+2024,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,198812,410114
+2025,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,24580,50308
+2025,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,GEN,24288,53015
+2025,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,20527,57781
+2025,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,EWS,27995,62694
+2025,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,30503,58490
+2025,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,OBC,22307,62635
+2025,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,142642,253413
+2025,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,SC,159783,266314
+2025,1,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,186703,340564
+2025,2,SLIMS,Salt Lake Institute of Medical Sciences,Kolkata,West Bengal,Private,MBBS,State,ST,142962,365683
+2023,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,27256,60273
+2023,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,27284,67368
+2023,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,39219,67609
+2023,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,41140,74170
+2023,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,29706,74290
+2023,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,44782,79846
+2023,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,169558,297439
+2023,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,130673,313802
+2023,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,234963,415687
+2023,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,223707,457794
+2024,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,24544,63826
+2024,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,33651,71103
+2024,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,27326,73301
+2024,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,45584,79778
+2024,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,33342,74655
+2024,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,31236,81064
+2024,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,187114,313017
+2024,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,174436,332123
+2024,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,202921,402553
+2024,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,207800,445142
+2025,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,27559,60067
+2025,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,GEN,30179,62648
+2025,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,33488,68782
+2025,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,EWS,37720,76115
+2025,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,25120,66541
+2025,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,OBC,27246,72668
+2025,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,132376,290333
+2025,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,SC,110166,308020
+2025,1,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,162987,403892
+2025,2,EHMC,Eastern Health Medical College,Bhubaneswar,Odisha,Private,MBBS,State,ST,218058,446443
+2023,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,21390,47317
+2023,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,20645,49468
+2023,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,18931,50750
+2023,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,23075,54329
+2023,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,19589,53769
+2023,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,26034,59935
+2023,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,92375,237031
+2023,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,123727,259652
+2023,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,172938,314200
+2023,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,153725,332414
+2024,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,24712,51779
+2024,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,23041,55509
+2024,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,20206,57322
+2024,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,22634,63317
+2024,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,35545,59386
+2024,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,25928,62952
+2024,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,123548,232279
+2024,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,101211,254548
+2024,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,138597,348413
+2024,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,213086,372226
+2025,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,23961,46759
+2025,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,GEN,22357,50138
+2025,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,29948,54799
+2025,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,EWS,28486,59368
+2025,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,20713,57798
+2025,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,OBC,25583,64226
+2025,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,104281,219280
+2025,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,SC,137110,241600
+2025,1,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,122889,311412
+2025,2,NHMC,Nandi Hills Medical College,Bengaluru,Karnataka,Private,MBBS,State,ST,153081,337375
+2023,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,26436,52269
+2023,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,29966,57094
+2023,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,28483,59658
+2023,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,26729,62915
+2023,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,23791,62582
+2023,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,27586,69211
+2023,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,128283,279632
+2023,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,120301,301677
+2023,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,168812,378831
+2023,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,223239,395788
+2024,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,35823,59871
+2024,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,25514,66256
+2024,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,26587,66325
+2024,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,33788,70239
+2024,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,40334,69604
+2024,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,31786,72697
+2024,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,148127,295928
+2024,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,187524,314991
+2024,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,210680,395178
+2024,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,179594,419057
+2025,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,25851,50887
+2025,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,GEN,21635,56795
+2025,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,32579,59335
+2025,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,EWS,24137,65766
+2025,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,32243,65599
+2025,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,OBC,39201,69118
+2025,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,105227,263720
+2025,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,SC,153672,286539
+2025,1,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,164182,335809
+2025,2,MPMC,Marina Private Medical College,Chennai,Tamil Nadu,Private,MBBS,State,ST,143101,361325
+2023,1,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,57735,121195
+2023,2,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,48251,129963
+2024,1,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,53193,131853
+2024,2,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,79192,140929
+2025,1,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,64616,120332
+2025,2,VDUMC,Vindhya Deemed University Medical College,Indore,Madhya Pradesh,Deemed,MBBS,Deemed,GEN,60938,127991
+2023,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,37882,96919
+2023,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,58478,106462
+2024,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,51158,107250
+2024,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,45684,114633
+2025,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,43392,98782
+2025,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,MBBS,Deemed,GEN,53781,105913
+2023,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,88887,207633
+2023,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,89800,217896
+2024,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,124691,236588
+2024,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,104561,248981
+2025,1,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,113862,215381
+2025,2,SDUMC,Sahyadri Deemed University Medical College,Navi Mumbai,Maharashtra,Deemed,BDS,Deemed,GEN,85296,230890

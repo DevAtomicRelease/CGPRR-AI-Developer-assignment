@@ -1,0 +1,34 @@
+# Two containers on one machine: Ollama (model server on the GPU) and the app.
+# No port other than 127.0.0.1:8080 is published, and nothing calls an outside API
+# after the one-time model download.
+services:
+  ollama:
+    image: ollama/ollama:latest
+    volumes:
+      - ollama-models:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+    restart: unless-stopped
+
+  app:
+    build: .
+    depends_on: [ollama]
+    environment:
+      OLLAMA_URL: http://ollama:11434
+      NEETRAG_CHAT_MODEL: ${NEETRAG_CHAT_MODEL:-qwen2.5:7b-instruct}
+      NEETRAG_EMBED_MODEL: ${NEETRAG_EMBED_MODEL:-nomic-embed-text}
+    volumes:
+      - ./index:/app/index
+      - ./logs:/app/logs
+      - ./eval:/app/eval
+    ports:
+      - "127.0.0.1:8080:8080"
+    command: ["serve"]
+
+volumes:
+  ollama-models:

@@ -1,0 +1,8 @@
+{
+  "chunks": 2135,
+  "dim": 768,
+  "embed_model": "nomic-embed-text",
+  "data_fingerprint": "65ce1ffe23c74d3d",
+  "embed_seconds": 176.5,
+  "built_at": "2026-11-15 13:14:50"
+}

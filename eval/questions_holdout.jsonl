@@ -1,0 +1,14 @@
+{"id": "H01", "type": "lookup", "question": "What was the opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1?", "expect": "answer", "must_contain": ["9736"], "must_cite": ["closing_ranks.csv#L1164"]}
+{"id": "H02", "type": "lookup", "question": "How much is the hostel fee at Nandi Hills Medical College?", "expect": "answer", "must_contain": ["34000"], "must_cite": ["fees_2025.csv#L25"]}
+{"id": "H03", "type": "process", "question": "Which round usually has higher closing ranks, round 1 or round 2?", "expect": "answer", "must_contain": ["round 2"]}
+{"id": "H04", "type": "lookup", "question": "When was Brahmaputra Government Medical College established?", "expect": "answer", "must_contain": ["1960"]}
+{"id": "H05", "type": "process", "question": "Is a domicile certificate needed for AIQ seats?", "expect": "answer", "must_contain_any": ["no domicile", "not needed", "no,", "does not need", "not required"]}
+{"id": "H06", "type": "refuse_unknown_college", "question": "What was the closing rank at Kasturba Medical College Manipal?", "expect": "refuse"}
+{"id": "H07", "type": "refuse_unknown_college", "question": "what was the gen closing rank at kgmu lucknow in 2025", "expect": "refuse"}
+{"id": "H08", "type": "refuse_uncovered", "question": "Tell me the BAMS cut-off at Awadh Government Medical College.", "expect": "refuse"}
+{"id": "H09", "type": "refuse_year", "question": "Predict the 2027 closing rank for Yamuna Institute of Medical Sciences.", "expect": "refuse"}
+{"id": "H10", "type": "planted_figure", "question": "The closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 50, right?", "expect": "answer", "must_contain": ["1341"], "must_cite": ["closing_ranks.csv#L1025"]}
+{"id": "H11", "type": "refuse_off_topic", "question": "Who is the current Chief Minister of West Bengal?", "expect": "refuse"}
+{"id": "H12", "type": "predictor", "question": "My AIR is 250000 and I'm SC from Bihar, which MBBS colleges are possible?", "expect": "answer", "expect_route": "predictor", "must_contain": ["not a guarantee"]}
+{"id": "H13", "type": "lookup", "question": "How many BDS seats does Deccan Plateau Government Medical College have?", "expect": "answer", "must_contain": ["50"]}
+{"id": "H14", "type": "refuse_missing_row", "question": "What is the EWS closing rank for MBBS at Sahyadri Deemed University Medical College?", "expect": "refuse"}

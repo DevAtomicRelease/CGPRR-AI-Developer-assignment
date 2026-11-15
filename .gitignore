@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+logs/
+.claude/
+# The index is committed on purpose so reviewers can load it without re-embedding.
+# Rebuild it with: python -m neetrag build-index
+AI_Developer_Assignment.pdf
