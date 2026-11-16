@@ -1,6 +1,6 @@
 # Evaluation results
 
-Run at 2026-11-15 14:02 · model `qwen2.5:7b-instruct` (ollama) · embeddings `nomic-embed-text` · 14 questions · total 26s
+Run at 2026-11-16 15:45 · model `qwen2.5:7b-instruct` (ollama) · embeddings `nomic-embed-text` · 14 questions · total 43s
 
 | Metric | Result |
 |---|---|
@@ -8,7 +8,7 @@ Run at 2026-11-15 14:02 · model `qwen2.5:7b-instruct` (ollama) · embeddings `n
 | Should-refuse questions correctly refused | 6/6 |
 | Answerable questions wrongly refused | 0/8 |
 | Expected citation present | 3/3 |
-| Median latency, questions that reached the LLM | 2.1s |
+| Median latency, questions that reached the LLM | 2.7s |
 
 Which layer produced each refusal (rule = deterministic check before the LLM; model = the LLM said not_in_sources; post-check = the answer was withheld after generation):
 

@@ -35,7 +35,7 @@ from neetrag.llm import server_info  # noqa: E402
 from neetrag.predictor import BANDS  # noqa: E402
 
 LAYER = {"model_not_in_sources": "model", "unverified_numbers": "post-check", "no_citation": "post-check",
-         "llm_error": "error", "predictor_refused": "rule (predictor)", "missing_category": "rule (predictor)"}
+         "llm_error": "error", "malformed_output": "post-check", "predictor_refused": "rule (predictor)", "missing_category": "rule (predictor)"}
 
 
 def norm(s: str) -> str:

@@ -4,6 +4,7 @@ OpenAI-compatible server such as vLLM). Nothing here calls a cloud service."""
 from __future__ import annotations
 
 import json
+import re
 from typing import Any
 
 import numpy as np
@@ -49,31 +50,84 @@ def embed(texts: list[str], kind: str = "document", batch: int = 64) -> np.ndarr
 
 # ---------------------------------------------------------------------- chat
 
-def chat_json(system: str, user: str, schema: dict[str, Any]) -> dict:
-    """Ask the model for a JSON object that follows `schema`."""
+class LLMMalformed(LLMError):
+    """The model hit the token cap or returned invalid JSON (for example a repetition loop).
+    `partial` holds the text generated before generation stopped."""
+
+    def __init__(self, msg: str, partial: str = ""):
+        super().__init__(msg)
+        self.partial = partial
+
+
+# Five or more citation markers in a row ("[S1] [S2] [S3] [S4] [S5]") is the degenerate
+# loop seen in testing; stop generating as soon as it appears instead of waiting for the cap.
+CITATION_LOOP = re.compile(r"(?:\[S\d+\]\s*){5,}$")
+
+
+def _stream_ollama(payload: dict) -> tuple[str, bool]:
+    url = f"{SETTINGS.ollama_url}/api/chat"
+    parts: list[str] = []
+    try:
+        with requests.post(url, json=payload, stream=True, timeout=SETTINGS.request_timeout) as r:
+            if r.status_code != 200:
+                raise LLMError(f"{url} returned {r.status_code}: {r.text[:300]}")
+            for line in r.iter_lines():
+                if not line:
+                    continue
+                msg = json.loads(line)
+                if "error" in msg:
+                    raise LLMError(f"{url}: {msg['error']}")
+                parts.append(msg.get("message", {}).get("content", ""))
+                if CITATION_LOOP.search("".join(parts[-40:])):
+                    raise LLMMalformed("Model started repeating citation markers; generation stopped early.",
+                                       partial="".join(parts))
+                if msg.get("done"):
+                    return "".join(parts), msg.get("done_reason") == "length"
+    except requests.RequestException as e:
+        raise LLMError(f"Cannot reach local model server at {url} ({type(e).__name__})") from e
+    return "".join(parts), True
+
+
+def chat_json(system: str, user: str, schema: dict[str, Any], retry: bool = False) -> dict:
+    """Ask the model for a JSON object that follows `schema`.
+
+    Output is capped at SETTINGS.max_tokens so a degenerate repetition loop costs seconds,
+    not minutes. `retry=True` is the second attempt: a little sampling and a repetition
+    penalty to get the model out of the loop it fell into.
+    """
+    temperature = 0.3 if retry else SETTINGS.temperature
     if SETTINGS.llm_backend == "openai":
         payload = {
             "model": SETTINGS.chat_model,
-            "temperature": SETTINGS.temperature,
+            "temperature": temperature,
+            "max_tokens": SETTINGS.max_tokens,
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
             "response_format": {"type": "json_schema", "json_schema": {"name": "answer", "schema": schema}},
         }
+        if retry:
+            payload["frequency_penalty"] = 0.5
         data = _post(f"{SETTINGS.openai_url}/chat/completions", payload)
         text = data["choices"][0]["message"]["content"]
+        truncated = data["choices"][0].get("finish_reason") == "length"
     else:
+        options = {"temperature": temperature, "num_ctx": SETTINGS.num_ctx, "num_predict": SETTINGS.max_tokens,
+                   "seed": 11 if retry else 7}
+        if retry:
+            options["repeat_penalty"] = 1.3
         payload = {
             "model": SETTINGS.chat_model,
-            "stream": False,
+            "stream": True,
             "format": schema,
-            "options": {"temperature": SETTINGS.temperature, "num_ctx": SETTINGS.num_ctx, "seed": 7},
+            "options": options,
             "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         }
-        data = _post(f"{SETTINGS.ollama_url}/api/chat", payload)
-        text = data["message"]["content"]
+        text, truncated = _stream_ollama(payload)
+    if truncated:
+        raise LLMMalformed(f"Model output hit the {SETTINGS.max_tokens}-token cap: ...{text[-120:]}")
     try:
         return json.loads(text)
     except json.JSONDecodeError as e:
-        raise LLMError(f"Model did not return valid JSON: {text[:300]}") from e
+        raise LLMMalformed(f"Model did not return valid JSON: {text[:300]}") from e
 
 
 def server_info() -> dict:

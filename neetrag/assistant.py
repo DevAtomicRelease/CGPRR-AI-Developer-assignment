@@ -4,6 +4,8 @@ pre- and post-generation checks that decide when to refuse."""
 
 from __future__ import annotations
 
+import contextlib
+import json
 import os
 import re
 import time
@@ -13,14 +15,14 @@ from . import guards
 from .config import SETTINGS
 from .entities import extract, parse_rank, vocab
 from .index import Hit, Index
-from .llm import LLMError, chat_json
+from .llm import LLMError, LLMMalformed, chat_json
 from .predictor import predict
 
 SYSTEM_PROMPT = """You are the NEET.info counselling assistant. You answer questions about NEET-UG counselling using ONLY the numbered SOURCES provided with each question. The sources are a synthetic demo dataset.
 
 Work in this order:
 1. "evidence": read every source and copy, word for word, the sentences that answer the question, each with its source number. The answer is usually in one of the sources; check all of them, including table records, before deciding it is missing. If nothing in the sources answers the question, leave "evidence" empty.
-2. "answer": answer using only the evidence. Cite every fact with its source number in square brackets, for example [S2]. Copy ranks, seat counts, fees and years exactly. One to four sentences.
+2. "answer": answer using only the evidence. Cite every fact with its source number in square brackets, for example [S2]. Cite only sources you quoted in "evidence", and cite each one once; never list source numbers in a row. Copy ranks, seat counts, fees and years exactly. One to four sentences.
 3. "status": "answered" if the evidence answers the question; "not_in_sources" if it does not. In that case the answer says briefly what is missing.
 
 Rules:
@@ -37,12 +39,13 @@ ANSWER_SCHEMA = {
             "type": "array",
             "items": {
                 "type": "object",
-                "properties": {"source": {"type": "integer"}, "quote": {"type": "string"}},
+                "properties": {"source": {"type": "integer"}, "quote": {"type": "string", "maxLength": 600}},
                 "required": ["source", "quote"],
             },
             "minItems": 1,
+            "maxItems": 10,
         },
-        "answer": {"type": "string"},
+        "answer": {"type": "string", "maxLength": 1200},
         "status": {"type": "string", "enum": ["answered", "not_in_sources"]},
     },
     "required": ["evidence", "answer", "status"],
@@ -91,6 +94,24 @@ def _result(question: str, status: str, answer: str, *, reason: str = "", route:
 
 def _refuse(question: str, why: str, reason: str, **kw) -> dict:
     return _result(question, "refused", f"{NOT_IN_SOURCES}. {why}", reason=reason, **kw)
+
+
+def _salvage(partial: str) -> dict | None:
+    """Rebuild {"evidence", "answer", "status"} from output cut off by a citation loop inside
+    the answer string. Returns None unless the evidence array is complete and valid."""
+    m = re.search(r'^\s*\{\s*"evidence"\s*:\s*(\[.*\])\s*,\s*"answer"\s*:\s*"(.*)$', partial, re.S)
+    if not m:
+        return None
+    try:
+        evidence = json.loads(m.group(1))
+    except json.JSONDecodeError:
+        return None
+    answer = re.sub(r"(\s*\[S\d+\])+\s*\[?S?\d*$", "", m.group(2)).strip()
+    if not evidence or len(answer) < 10:
+        return None
+    with contextlib.suppress(json.JSONDecodeError):
+        answer = json.loads(f'"{answer}"')  # undo JSON string escapes
+    return {"evidence": evidence, "answer": answer, "status": "answered"}
 
 
 def _squash(s: str) -> str:
@@ -162,12 +183,34 @@ def ask(question: str) -> dict:
     sources = "\n".join(f"[S{i}] ({h.chunk.id}) {h.chunk.text}" for i, h in enumerate(hits, start=1))
     user = f"SOURCES:\n{sources}\n\nQUESTION: {q}"
     try:
-        out = chat_json(SYSTEM_PROMPT, user, ANSWER_SCHEMA)
+        try:
+            out = chat_json(SYSTEM_PROMPT, user, ANSWER_SCHEMA)
+        except LLMMalformed as err:
+            # Seen in testing: after writing its evidence and answer, the 7B model sometimes
+            # loops "[S1] [S2] [S3] ..." until the token cap. Keep what came before the loop
+            # (it still goes through every post-check below); otherwise retry once.
+            out = _salvage(err.partial)
+            if out is not None:
+                flags.append("loop_truncated")
+            else:
+                guards.log_event("generation_retry", {"question": question, "error": str(err)[:300]})
+                flags.append("generation_retried")
+                out = chat_json(SYSTEM_PROMPT, user, ANSWER_SCHEMA, retry=True)
+    except LLMMalformed as err:
+        guards.log_event("grounding_block", {"question": question, "why": "malformed output twice", "error": str(err)[:300]})
+        return _refuse(question, "The local model produced malformed output twice, so no answer is given.",
+                       "malformed_output", flags=flags, t0=t0)
     except LLMError as err:
         return _result(question, "refused", f"The local model could not be reached: {err}", reason="llm_error", flags=flags, t0=t0)
 
     # Small models occasionally leak JSON punctuation into the string; answers never contain braces.
     answer = re.split(r"['\"]?\s*[{}]", str(out.get("answer", "")))[0].strip()
+    # Drop citation markers for sources that do not exist (and a marker cut off by the length cap),
+    # then collapse a run of repeated markers to single ones.
+    answer = re.sub(r"\[S(\d+)\]", lambda m: m.group(0) if 1 <= int(m.group(1)) <= len(hits) else "", answer)
+    answer = re.sub(r"\s*\[S?\d*$", "", answer)
+    answer = re.sub(r"(\[S\d+\])(\s*\1)+", r"\1", answer)
+    answer = re.sub(r"\s{2,}", " ", answer).strip()
     # Evidence quotes count as citations only if the quote really is in the source it names.
     evidence_ids, bad_quotes = set(), 0
     for ev in out.get("evidence", []):
@@ -221,6 +264,8 @@ def ask(question: str) -> dict:
     # Rewrite [S#] markers to stable source ids so the answer is self-contained.
     for n in sorted(cited, reverse=True):
         answer = answer.replace(f"[S{n}]", f"[{hits[n - 1].chunk.id}]")
+    if not any(f"[{hits[n - 1].chunk.id}]" in answer for n in cited):
+        answer += " " + " ".join(f"[{hits[n - 1].chunk.id}]" for n in sorted(cited))
     if echoed:
         answer += (f"\n\nNote: the figure {', '.join(echoed)} comes from your question and does not appear "
                    "in the sources; do not rely on it.")

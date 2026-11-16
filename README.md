@@ -155,6 +155,7 @@ A citation such as `closing_ranks.csv#L437` means line 437 of `data/tables/closi
 | Held-out set, first and only blind run (`eval/results_holdout.md`) | 14 | 13/14 | 6/6 | 0/8 |
 | Held-out set after fixing the one failure | 14 | 14/14 | 6/6 | 0/8 |
 | Ablation: refusal questions with the rule layer switched off | 13 | 10/13 | 11/13 | - |
+| Fresh-clone retest, then 5 repeat runs after the loop fix (dev ×3, held-out ×2) | 20 / 14 | all runs 100% | 8/8, 6/6 | 0/12, 0/8 |
 
 The development score is optimistic because the system was tuned on it. The held-out failure
 and the ablation are explained in the design note. Treat these as smoke tests on synthetic
@@ -194,6 +195,7 @@ All settings are environment variables (see `neetrag/config.py`):
 | `NEETRAG_EMBED_BACKEND` | `ollama` | keep embeddings on Ollama even when chat uses vLLM, or `openai` |
 | `NEETRAG_OPENAI_URL` | `http://127.0.0.1:8000/v1` | local OpenAI-compatible endpoint |
 | `OLLAMA_URL` | `http://127.0.0.1:11434` | Ollama endpoint |
+| `NEETRAG_MAX_TOKENS` | `700` | hard cap on generated tokens |
 | `NEETRAG_MIN_DENSE_SCORE` | `0.60` | refuse if the best dense match is below this |
 | `NEETRAG_INDEX_DIR`, `NEETRAG_LOG_DIR`, `NEETRAG_DATA_DIR` | `index/`, `logs/`, `data/` | where things live |
 
@@ -224,6 +226,8 @@ embedding model you must rebuild the index.
 - The rule layer is pattern based. It catches the phrasings in the test sets but will miss some
   paraphrases (for example an unknown college typed in lower case without a known acronym), and
   the ablation shows the 7B model alone can then substitute a similar college.
+- The 7B model occasionally falls into a repetition loop at the end of an answer. It is caught while streaming and the
+  answer written before the loop is kept (flag `loop_truncated`); a loop anywhere else triggers one retry.
 - Answers are in English only.
 - The predictor bands (Likely / Borderline / Reach) are simple ratios to last year's closing rank,
   not a statistical model, and are labelled as such in every output.

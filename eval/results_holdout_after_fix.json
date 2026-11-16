@@ -17,7 +17,7 @@
       "route": "rag",
       "status": "answered",
       "reason": "",
-      "answer": "The opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1 was 9736 [closing_ranks.csv#L1164].",
+      "answer": "The opening rank for SC category in State Quota MBBS at Awadh Government Medical College in 2024 Round 1 was 9736 [closing_ranks.csv#L1164]. A lower number is a better rank.",
       "citations": [
         {
           "id": "closing_ranks.csv#L1164",
@@ -26,7 +26,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 3.8,
+      "latency_s": 4.48,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -91,7 +91,7 @@
       "route": "rag",
       "status": "answered",
       "reason": "",
-      "answer": "The annual hostel fee at Nandi Hills Medical College is INR 34000.",
+      "answer": "The annual hostel fee at Nandi Hills Medical College is INR 34000. [fees_2025.csv#L25]",
       "citations": [
         {
           "id": "fees_2025.csv#L25",
@@ -100,7 +100,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 1.94,
+      "latency_s": 1.8,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -171,7 +171,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 2.15,
+      "latency_s": 1.94,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -232,7 +232,7 @@
       "route": "rag",
       "status": "answered",
       "reason": "",
-      "answer": "Brahmaputra Government Medical College was established in 1960.",
+      "answer": "Brahmaputra Government Medical College was established in 1960. [college_profiles.md#brahmaputra-government-medical-college-bgmc]",
       "citations": [
         {
           "id": "college_profiles.md#brahmaputra-government-medical-college-bgmc",
@@ -241,7 +241,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 2.31,
+      "latency_s": 2.68,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -315,7 +315,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 1.96,
+      "latency_s": 2.47,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -483,12 +483,17 @@
       "route": "rag",
       "status": "answered",
       "reason": "",
-      "answer": "No, the closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 1341, not 50 [closing_ranks.csv#L1025]. The college has a total of 250 MBBS seats [college_profiles.md#coromandel-government-medical-college-cogmc].",
+      "answer": "The closing rank for Coromandel Government Medical College AIQ GEN MBBS 2025 round 2 is 1341 [closing_ranks.csv#L1025], not 50. The sources indicate that the closing rank changes every year and is not a guarantee of admission [counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean].",
       "citations": [
         {
           "id": "college_profiles.md#coromandel-government-medical-college-cogmc",
           "source": "docs/college_profiles.md",
           "text": "College profiles (SYNTHETIC) - Coromandel Government Medical College (COGMC)\nCoromandel Government Medical College is a government medical college in Chennai, Tamil Nadu, established in 1950. It offers MBBS and BDS. It has 250 MBBS seats and 50 BDS seats. Seats are filled through: All India Quota (15%), State Quota."
+        },
+        {
+          "id": "counselling_handbook.md#5-what-opening-rank-and-closing-rank-mean",
+          "source": "docs/counselling_handbook.md",
+          "text": "NEET-UG Counselling Handbook (SYNTHETIC DEMO EDITION) - 5. What \"opening rank\" and \"closing rank\" mean\nThe **opening rank** is the best NEET All India Rank (AIR) that was allotted a\nseat in a given college, course, quota, category and round. The **closing\nrank** is the last (highest-numbered) AIR allotted a seat in that same group.\nA lower number is a better rank. A closing rank from a previous year is a\nreference point only: it changes every year with the number of seats, the\nnumber of candidates and their choices. It is never a guarantee of admission."
         },
         {
           "id": "closing_ranks.csv#L1025",
@@ -497,7 +502,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 3.66,
+      "latency_s": 3.58,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -556,12 +561,10 @@
       "route": "rag",
       "status": "refused",
       "reason": "model_not_in_sources",
-      "answer": "Not in the sources. Not_in_sources.",
+      "answer": "Not in the sources. The evidence provided does not contain any information about the current Chief Minister of West Bengal.",
       "citations": [],
-      "flags": [
-        "evidence_not_verbatim"
-      ],
-      "latency_s": 1.77,
+      "flags": [],
+      "latency_s": 15.34,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -627,7 +630,7 @@
       "flags": [
         "guarantee_disclaimer"
       ],
-      "latency_s": 0.03,
+      "latency_s": 0.02,
       "model": null,
       "prediction": {
         "status": "ok",
@@ -673,7 +676,7 @@
       "route": "rag",
       "status": "answered",
       "reason": "",
-      "answer": "Deccan Plateau Government Medical College has 50 BDS seats.",
+      "answer": "Deccan Plateau Government Medical College has 50 BDS seats [college_profiles.md#deccan-plateau-government-medical-college-dpgmc].",
       "citations": [
         {
           "id": "college_profiles.md#deccan-plateau-government-medical-college-dpgmc",
@@ -682,7 +685,7 @@
         }
       ],
       "flags": [],
-      "latency_s": 1.79,
+      "latency_s": 2.29,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [
@@ -740,10 +743,10 @@
       "route": "rag",
       "status": "refused",
       "reason": "model_not_in_sources",
-      "answer": "Not in the sources. The evidence does not provide the EWS closing rank for MBBS at Sahyadri Deemed University Medical College. [S1] mentions the college and its MBBS seats, but does not provide any information about the closing ranks for different categories. [S3] explains the concept of closing rank but does not give any specific closing rank values. Therefore, the EWS closing rank for MBBS at Sahyadri Deemed University Medical College is not available in the provided sources.",
+      "answer": "Not in the sources. The evidence does not provide the EWS closing rank for MBBS at Sahyadri Deemed University Medical College. [S1] mentions the filling process but does not specify the closing rank for any category. [S3] explains the concept of closing rank but does not provide the specific rank for EWS category at Sahyadri Deemed University Medical College. [S7] and [S8] discuss the categories but do not provide the closing ranks. Therefore, the closing rank for EWS category is not available in the given sources. [S3] [S1] [S7] [S8]",
       "citations": [],
       "flags": [],
-      "latency_s": 6.95,
+      "latency_s": 8.73,
       "model": "qwen2.5:7b-instruct",
       "retrieved": [
         [

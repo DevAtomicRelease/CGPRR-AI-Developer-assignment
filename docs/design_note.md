@@ -50,7 +50,7 @@ rows) are reported as missing, not estimated. Every result carries a "not a guar
 Ollama's grammar-constrained JSON output (`format` = JSON schema) makes the reply parseable every
 time. The schema puts `evidence` first and requires at least one quote, so the model must look at
 the sources before it decides. An earlier schema that asked for the status first, with no required
-quote, refused 5 of the 12 answerable development questions. Temperature is 0 and the seed is fixed, so runs are repeatable. The code also speaks
+quote, refused 5 of the 12 answerable development questions. Temperature is 0 and the seed is fixed, but runs are not fully repeatable: Ollama's prompt cache can still change the output (section 4). The code also speaks
 the OpenAI-compatible API, so vLLM or llama.cpp can replace Ollama without code changes.
 
 ## 3. GPU and memory estimate
@@ -58,7 +58,7 @@ the OpenAI-compatible API, so vLLM or llama.cpp can replace Ollama without code 
 **Measured on the development laptop** (RTX 4060 Laptop, 8 GB, `scripts/bench.py`, median of 5):
 the chat model holds 4.65 GiB and the embedder 0.31 GiB. A typical prompt (~1,200 tokens of
 sources) is processed at about 3,000 tok/s, and the answer (~125 tokens) is generated at 44 tok/s.
-That is about 3.2 s of generation per answer, and 3.3 s median end to end in the evaluation. Building
+That is about 3.2 s of generation per answer, and 3.3-4.0 s median end to end in the evaluation runs. Building
 the index embeds 2,135 chunks in 35 s, and a rebuild from a fresh clone reproduced the shipped embeddings exactly.
 
 **Estimate for one RTX 6000-class card. Assumed: RTX 6000 Ada, 48 GB GDDR6, ~960 GB/s, 300 W.**
@@ -85,8 +85,9 @@ the closing rank and band.
 | Development, 20 questions (8 should refuse) | 20/20 | The system was tuned on this set, so the score is optimistic. |
 | **Held-out, 14 questions, first blind run** | **13/14** | Failure H12: "My AIR is 250000 and I'm SC from Bihar, which MBBS colleges are possible?" missed the predictor route, and the RAG model wrote that a closing rank of 96,243 was "higher than" 250,000. The numbers were real, so the number check passed, but the advice was wrong. Fix: any question containing the user's own rank now goes to the predictor. It then passed 14/14. |
 | Ablation: 13 should-refuse questions, rule layer off | 11/13 refused | The two misses were entity substitution: asked about AIIMS Delhi and KGMU Lucknow, the model answered with the nearest indexed colleges (YIMS Delhi, AGMC Lucknow), citing real rows. |
+| Fresh-clone retest from GitHub | dev 19/20 | A05 timed out after 180 s: having answered correctly, the model kept writing "[S1] [S2] [S3] ..." until the timeout. Fix: stream the output, stop at five markers in a row, keep the answer written before the loop (it still passes every post-check), cap output at 700 tokens. Five repeat runs afterwards (dev ×3, held-out ×2) all passed. |
 
-In addition, 19 unit tests (`pytest`) cover the parts that need no model: entity and rank rules, injection handling, predictor refusals and bands, citation line ids, and a clear refusal when the model server is down.
+In addition, 20 unit tests (`pytest`) cover the parts that need no model: entity and rank rules, injection handling, predictor refusals and bands, citation line ids, and a clear refusal when the model server is down.
 
 What this shows: the refusal guarantee comes mainly from the rule layer and the deterministic
 predictor. On the development set only 2 of 8 refusals came from the model itself. The model is

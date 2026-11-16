@@ -36,6 +36,8 @@ class Settings:
     min_dense_score: float = float(_env("NEETRAG_MIN_DENSE_SCORE", "0.60"))
     temperature: float = float(_env("NEETRAG_TEMPERATURE", "0.0"))
     num_ctx: int = int(_env("NEETRAG_NUM_CTX", "8192"))
+    # Hard cap on generated tokens. A normal answer with evidence quotes is 100-350 tokens.
+    max_tokens: int = int(_env("NEETRAG_MAX_TOKENS", "700"))
     request_timeout: int = int(_env("NEETRAG_TIMEOUT", "180"))
 
 
