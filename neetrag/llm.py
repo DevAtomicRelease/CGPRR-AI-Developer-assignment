@@ -20,7 +20,7 @@ def _post(url: str, payload: dict) -> dict:
     try:
         r = requests.post(url, json=payload, timeout=SETTINGS.request_timeout)
     except requests.RequestException as e:  # pragma: no cover - network failure path
-        raise LLMError(f"Cannot reach local model server at {url}: {e}") from e
+        raise LLMError(f"Cannot reach local model server at {url} ({type(e).__name__})") from e
     if r.status_code != 200:
         raise LLMError(f"{url} returned {r.status_code}: {r.text[:300]}")
     return r.json()

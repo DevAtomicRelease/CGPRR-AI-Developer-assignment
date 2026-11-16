@@ -59,7 +59,7 @@ the OpenAI-compatible API, so vLLM or llama.cpp can replace Ollama without code 
 the chat model holds 4.65 GiB and the embedder 0.31 GiB. A typical prompt (~1,200 tokens of
 sources) is processed at about 3,000 tok/s, and the answer (~125 tokens) is generated at 44 tok/s.
 That is about 3.2 s of generation per answer, and 3.3 s median end to end in the evaluation. Building
-the index embeds 2,135 chunks in 177 s.
+the index embeds 2,135 chunks in 35 s, and a rebuild from a fresh clone reproduced the shipped embeddings exactly.
 
 **Estimate for one RTX 6000-class card. Assumed: RTX 6000 Ada, 48 GB GDDR6, ~960 GB/s, 300 W.**
 Token generation is limited by memory bandwidth, so speed scales roughly with bandwidth ÷ model size.
@@ -85,6 +85,8 @@ the closing rank and band.
 | Development, 20 questions (8 should refuse) | 20/20 | The system was tuned on this set, so the score is optimistic. |
 | **Held-out, 14 questions, first blind run** | **13/14** | Failure H12: "My AIR is 250000 and I'm SC from Bihar, which MBBS colleges are possible?" missed the predictor route, and the RAG model wrote that a closing rank of 96,243 was "higher than" 250,000. The numbers were real, so the number check passed, but the advice was wrong. Fix: any question containing the user's own rank now goes to the predictor. It then passed 14/14. |
 | Ablation: 13 should-refuse questions, rule layer off | 11/13 refused | The two misses were entity substitution: asked about AIIMS Delhi and KGMU Lucknow, the model answered with the nearest indexed colleges (YIMS Delhi, AGMC Lucknow), citing real rows. |
+
+In addition, 19 unit tests (`pytest`) cover the parts that need no model: entity and rank rules, injection handling, predictor refusals and bands, citation line ids, and a clear refusal when the model server is down.
 
 What this shows: the refusal guarantee comes mainly from the rule layer and the deterministic
 predictor. On the development set only 2 of 8 refusals came from the model itself. The model is

@@ -148,7 +148,11 @@ def ask(question: str) -> dict:
                        "year_not_covered", flags=flags, t0=t0)
 
     # 4. Retrieve.
-    hits = get_index().search(q, filters=e.filters())
+    try:
+        hits = get_index().search(q, filters=e.filters())
+    except LLMError as err:
+        return _result(question, "refused", f"The local model server is not reachable, so no answer was generated. "
+                       f"Start it with `ollama serve` and try again. ({err})", reason="llm_error", flags=flags, t0=t0)
     if not hits or (max(h.dense for h in hits) < SETTINGS.min_dense_score and not ABLATE_RULES):
         return _refuse(question, "I could not find anything relevant to this question in the NEET.info sources.",
                        "low_retrieval_score", flags=flags, t0=t0,

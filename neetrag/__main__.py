@@ -13,7 +13,7 @@ import json
 import sys
 
 
-def main(argv: list[str] | None = None) -> int:
+def _main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="neetrag", description="NEET.info private RAG assistant (synthetic data demo)")
     sub = ap.add_subparsers(dest="cmd", required=True)
     sub.add_parser("build-index", help="embed data/ and write index/")
@@ -70,6 +70,19 @@ def main(argv: list[str] | None = None) -> int:
 
         uvicorn.run("neetrag.server:app", host=args.host, port=args.port)
     return 0
+
+
+def main(argv: list[str] | None = None) -> int:
+    from .llm import LLMError
+
+    try:
+        return _main(argv)
+    except LLMError as err:
+        print(f"Error: {err}", file=sys.stderr)
+        print("Is the model server running? Start it with: ollama serve", file=sys.stderr)
+    except (FileNotFoundError, RuntimeError) as err:
+        print(f"Error: {err}", file=sys.stderr)
+    return 2
 
 
 if __name__ == "__main__":
