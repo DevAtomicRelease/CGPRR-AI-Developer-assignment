@@ -228,6 +228,9 @@ def ask(question: str) -> dict:
     retrieved = [(h.chunk.id, round(h.dense, 3)) for h in hits]
 
     if out.get("status") == "not_in_sources":
+        # Show which sources were checked as stable ids, not the prompt-local [S#] numbers.
+        answer = re.sub(r"\[S(\d+)\]", lambda m: f"[{hits[int(m.group(1)) - 1].chunk.id}]"
+                        if 1 <= int(m.group(1)) <= len(hits) else "", answer)
         text = answer if answer.lower().startswith("not in the sources") else f"{NOT_IN_SOURCES}. {answer}"
         return _result(question, "refused", text, reason="model_not_in_sources", flags=flags, t0=t0,
                        extra={"retrieved": retrieved})

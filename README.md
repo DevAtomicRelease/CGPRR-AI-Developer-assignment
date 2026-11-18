@@ -214,6 +214,12 @@ embedding model you must rebuild the index.
 - The eval questions contain prompt-injection attempts typed as user questions. No hidden
   instructions are placed in any source document.
 
+## Demo video
+
+The 4.5-minute demo video was recorded from the app running live on the development laptop, with
+captions and an offline synthetic voice (Windows SAPI). How it was made, and the scripts to re-create it, are in
+[scripts/demo_video/README.md](scripts/demo_video/README.md). The video file itself is not in the repository.
+
 ## AI tools used
 
 - **Claude Code (Anthropic, Claude Opus 5.5)** was used to help write the code, synthetic data
