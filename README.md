@@ -108,8 +108,25 @@ docker compose up --build
 docker compose run --rm app eval
 ```
 
-Honest note: Docker is not installed on the development laptop, so the compose file
-has not been run end to end. The native path above is the one that was tested.
+Ask a single question from the command line:
+
+```bash
+docker compose run --rm app ask "What was the closing rank for MBBS at AIIMS Delhi in 2025?"
+```
+
+Already pulled the models with a host Ollama? Set `OLLAMA_DATA_DIR` to the folder that contains
+its `models` directory (for example `~/.ollama`) to reuse them instead of downloading again:
+
+```bash
+OLLAMA_DATA_DIR=~/.ollama docker compose up --build
+```
+
+Tested on the development laptop (Docker Desktop 29.9 with WSL 2, RTX 4060): both models ran
+100% on the GPU inside the container, the evaluation scored 20/20, and warm answers took 2.6-4 s,
+the same as the native setup. The first answer after a start is slow (about 3 minutes here)
+because the 5 GB model loads into the GPU. Reusing a Windows folder through `OLLAMA_DATA_DIR`
+worked, but loaded more slowly than the Docker volume. Stop the host Ollama while testing,
+because an 8 GB card cannot hold two copies of the model.
 
 ## Example output
 

@@ -5,7 +5,10 @@ services:
   ollama:
     image: ollama/ollama:latest
     volumes:
-      - ollama-models:/root/.ollama
+      # Models live in a Docker volume by default. To reuse models a host Ollama already
+      # pulled (and skip a second ~5 GB download), set OLLAMA_DATA_DIR to the folder that
+      # contains its "models" directory, e.g. OLLAMA_DATA_DIR=~/.ollama or D:/ollama.
+      - ${OLLAMA_DATA_DIR:-ollama-models}:/root/.ollama
     deploy:
       resources:
         reservations:
