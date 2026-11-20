@@ -6,7 +6,10 @@ logs/
 # The index is committed on purpose so reviewers can load it without re-embedding.
 # Rebuild it with: python -m neetrag build-index
 AI_Developer_Assignment.pdf
+# Demo videos are shared by link (see README), never committed.
 /demo_video/
+*.mp4
+*.webm
 scripts/demo_video/cap/
 scripts/demo_video/audio/
 scripts/demo_video/pages/
